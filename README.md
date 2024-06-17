@@ -62,7 +62,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
 
 # Solucion Propuesta:
-
+<br>
 
 ## Metodología de Trabajo
 
@@ -136,3 +136,4 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 
 # EDA Preliminar:
+<br>
