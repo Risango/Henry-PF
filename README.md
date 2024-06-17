@@ -85,34 +85,6 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
-
-## Actividades Divididas por Integrantes
-| #  | Sprint | Actividad                                                | Responsable                                | Colaboradores           |
-|----|--------|----------------------------------------------------------|--------------------------------------------|-------------------------|
-| 1  | Sprint #1  | Situación actual                                         | Ricardo Andres Santana Contreras (RS)      |                         |
-| 2  | Sprint #1  | Objetivos                                                | Ricardo Andres Santana Contreras (RS)      |                         |
-| 3  | Sprint #1  | Alcance, Entregables y KPIs asociados                    | Ricardo Andres Santana Contreras (RS)      |                         |
-| 4  | Sprint #1  | Repositorio GitHub (Público)                             | Ricardo Andres Santana Contreras (RS)      |                         |
-| 5  | Sprint #1  | Solución Propuesta (Productos, Tecnologías a Utilizar)   | Ricardo Andres Santana Contreras (RS)      | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |
-| 6  | Sprint #1  | Diagrama de Gantt                                        | Ricardo Andres Santana Contreras (RS)      |                         |
-| 7  | Sprint #1  | Pruebas: Implementar el stack tecnológico en una muestra representativa | Ricardo Andres Santana Contreras (RS)      | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |
-| 8  | Sprint #1  | Calidad de los datos, EDA preliminar (confiabilidad de fuentes) | Jorge Enrique Caicedo Riascos (JE), Raul Rodrigo Penayo (RR) |                         |
-| 9  | Sprint #2  | Diccionario de datos                                     | Ricardo Andres Santana Contreras (RS)      | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |
-| 10 | Sprint #2  | Análisis de muestra representativa de datos              | Jorge Enrique Caicedo Riascos (JE), Raul Rodrigo Penayo (RR) |                         |
-| 11 | Sprint #2  | ETL y Pipelines (automatización)                         | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |                         |
-| 12 | Sprint #2  | Arquitectura propuesta (tecnologías y justificación)     | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |                         |
-| 13 | Sprint #2  | Data Warehouse con carga inicial                         | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |                         |
-| 14 | Sprint #2  | Carga incremental de datos                               | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |                         |
-| 15 | Sprint #2  | Modelo entidad relación                                  | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) | Ricardo Andres Santana Contreras (RS) |
-| 16 | Sprint #2  | Modelo de ML y Dashboard: versiones de prueba            | Daniel Gomero Alegre (DG), Jorge Enrique Caicedo Riascos (JE), Raul Rodrigo Penayo (RR) |                         |
-| 17 | Sprint #2  | Servicios Cloud y/o big data                             | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |                         |
-| 18 | Sprint #3  | Diseño de Reportes/Dashboards                            | Jorge Enrique Caicedo Riascos (JE), Raul Rodrigo Penayo (RR) |                         |
-| 19 | Sprint #3  | Modelo ML                                                | Daniel Gomero Alegre (DG) |                         |
-| 20 | Sprint #3  | Modelo de ML en producción (MVP)                         | Daniel Gomero Alegre (DG) | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA) |
-| 21 | Sprint #3  | Documentación: Selección del modelo, feature engineering, informe de análisis | Ricardo Andres Santana Contreras (RS) | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA), Daniel Gomero Alegre (DG) |
-| 22 | Sprint #3  | Presentaciones + storytelling + documentación            | Ricardo Andres Santana Contreras (RS) | Angel David Mariscal Soto (AD), Carlos Andres Ibarra Bolaños (CA), Daniel Gomero Alegre (DG), Jorge Enrique Caicedo Riascos (JE), Raul Rodrigo Penayo (RR) |
-| 23 | Sprint #3  | Repos ordenados (Readme completo)                        | Ricardo Andres Santana Contreras (RS) |                         |
-
 ## Metodología de Trabajo
 La metodología empleada en este proyecto se basa en prácticas ágiles y ciclos iterativos de desarrollo. Cada sprint se enfoca en la entrega de componentes específicos del proyecto, permitiendo revisiones constantes y adaptaciones según sea necesario. Esto asegura que el proyecto se mantenga alineado con los objetivos del negocio y responda de manera flexible a cualquier cambio en los requisitos o prioridades del cliente.
 
