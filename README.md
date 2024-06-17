@@ -29,13 +29,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 ## Rol a Desarrollar
 Como parte de una consultora de datos, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos para predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle al usuario, por ejemplo, la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas.
 
-## Propuesta de Trabajo
-1. **Recopilar, depurar y disponibilizar la información:**
-   - Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por nosotros, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos (e.g. datos estáticos, llamadas a una API, scrapping, entre otros).
-2. **Reporte y análisis significativos de la(s) línea(s) de investigación escogidas:**
-   - El análisis debe contemplar las relaciones entre variables y concluir si existe una relación entre estas y los posibles factores que causan dicha relación en la realidad.
-3. **Entrenamiento y puesta en producción de un modelo de machine learning:**
-   - El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se planteen como proyecto.
+
 
 ## Objetivos del Proyecto
 1. **Identificar la mejor ubicación y tipo de negocio:**
@@ -63,6 +57,15 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 
 # Solucion Propuesta:
 <br>
+
+## Propuesta de Trabajo
+1. **Recopilar, depurar y disponibilizar la información:**
+   - Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por nosotros, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos (e.g. datos estáticos, llamadas a una API, scrapping, entre otros).
+2. **Reporte y análisis significativos de la(s) línea(s) de investigación escogidas:**
+   - El análisis debe contemplar las relaciones entre variables y concluir si existe una relación entre estas y los posibles factores que causan dicha relación en la realidad.
+3. **Entrenamiento y puesta en producción de un modelo de machine learning:**
+   - El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se planteen como proyecto.
+
 ## Metodología de Trabajo
 
 La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum**, una forma ágil y flexible de manejar proyectos de desarrollo de software. Scrum se centra en la entrega continua de valor a través de ciclos iterativos y incrementales conocidos como *Sprints*.
