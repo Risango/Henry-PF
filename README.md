@@ -41,15 +41,30 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 4. **Crear un sistema de recomendación personalizado:**
    - Implementar un sistema de recomendación que sugiera restaurantes y otros negocios basados en las experiencias y preferencias de los usuarios.
 
-## KPIs Propuestos
-- **Para identificar la mejor ubicación y tipo de negocio:**
-  - **Número de reseñas positivas por ubicación:** Meta: Identificar al menos 10 ubicaciones con más del 75% de reseñas positivas.
-  - **Promedio de calificaciones por categoría de negocio:** Meta: Seleccionar categorías con un promedio de al menos 4.0 estrellas en las principales ubicaciones identificadas.
-  - **Frecuencia de reseñas en nuevos locales sugeridos:** Meta: Lograr que los nuevos locales reciban al menos 100 reseñas en los primeros 6 meses de operación.
-- **Para mejorar la estrategia de marketing:**
-  - **Incremento en la calificación promedio después de campañas de marketing:** Meta: Aumentar la calificación promedio en al menos 0.5 estrellas tras las campañas de marketing.
-  - **Número de reseñas que mencionan promociones:** Meta: Incrementar en un 20% las menciones de promociones en las reseñas durante las campañas de marketing.
-  - **Aumento en el tráfico de clientes (medido por check-ins):** Meta: Aumentar los check-ins en al menos un 30% tras las campañas de marketing.
+## KPIs Redefinidos del Proyecto
+
+### Para Identificar la Mejor Ubicación y Tipo de Negocio:
+- **Índice de Calificaciones Positivas por Ubicación**:
+  - **Fórmula**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
+  - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
+  - **Meta**: Más del 75% de calificaciones positivas en ubicaciones seleccionadas.
+
+### Para Mejorar la Estrategia de Marketing:
+- **Incremento en Calificaciones Promedio**:
+  - **Fórmula**: (Calificación promedio actual - Calificación promedio anterior) / Calificación promedio anterior
+  - **Datos**: `avg_rating` de `metadata_sitios`
+  - **Meta**: Aumento del 5% entre dos periodos consecutivos.
+- **Aumento en la Actividad de Reseñas**:
+  - **Fórmula**: (Número de reseñas en el periodo actual - Número de reseñas en el periodo anterior) / Número de reseñas en el periodo anterior
+  - **Datos**: `num_of_reviews` de `metadata_sitios`
+  - **Meta**: Incrementar el número de reseñas en un 10% entre dos periodos consecutivos.
+
+### Para Predecir Tendencias del Mercado:
+- **Tasa de Crecimiento Anual de Reseñas en Categorías Clave**:
+  - **Fórmula**: (Número de reseñas al final del año - Número de reseñas al inicio del año) / Número de reseñas al inicio del año
+  - **Datos**: `review_count` de `business.pkl`
+  - **Meta**: Incremento del 10% anual en categorías clave.
+    
 - **Para predecir tendencias del mercado:**
   - **Tendencia de calificaciones por categoría de negocio:** Meta: Identificar al menos 5 categorías con una tendencia creciente de 0.2 estrellas por año.
   - **Frecuencia de palabras clave positivas/negativas en reseñas:** Meta: Determinar que las categorías con mayor frecuencia de palabras clave positivas muestren un incremento del 10% anual en calificaciones.
