@@ -106,6 +106,19 @@ La colaboración interdisciplinaria entre los miembros del equipo es fundamental
 
 La distribución de tareas se ha asignado meticulosamente para aprovechar las especialidades y habilidades de cada integrante, asegurando así una ejecución eficiente y efectiva de cada sprint. Ricardo Andres Santana Contreras, como Project Manager y Business Analyst, lidera la planificación y gestión del proyecto, asegurando que los objetivos del sprint se alineen con las necesidades del negocio y coordinando las actividades del equipo. Angel David Mariscal Soto y Carlos Andres Ibarra Bolaños, ambos Data Analysts y Data Engineers, se encargan del desarrollo y mantenimiento de la arquitectura de datos, además de implementar procesos de ETL y automatización necesarios para el manejo eficiente de los datos. Daniel Gomero Alegre, nuestro Machine Learning Engineer, lidera el desarrollo y afinamiento de los modelos de machine learning, asegurando su integración y funcionamiento óptimo en la producción. Por otro lado, Jorge Enrique Caicedo Riascos y Raul Rodrigo Penayo, ambos Business Intelligence Analysts y Data Analysts, son fundamentales en la creación de dashboards y reportes, proporcionando insights críticos a través del análisis avanzado de datos para informar decisiones estratégicas.
 
+## Productos a Entregar
+
+### Modelo de Machine Learning
+**Entrega**: Según el Gantt, el desarrollo inicial del modelo comienza en el Sprint 2 con pruebas de versiones, y se finaliza en el Sprint 3 con la implementación en producción.
+- **Propósito**: Este modelo de ML está diseñado para analizar grandes volúmenes de datos y extraer patrones significativos que puedan mejorar la toma de decisiones y optimizar procesos internos. El modelo se afinará durante el Sprint 3 para asegurar su precisión y eficacia, permitiendo implementaciones prácticas en el entorno de producción.
+
+### Dashboard
+**Entrega**: El desarrollo del Dashboard se inicia en el Sprint 2 y se completa en el Sprint 3, con la presentación final de reportes y dashboards.
+- **Función**: El Dashboard proporcionará una interfaz visual interactiva para mostrar los resultados analizados por el modelo de ML. Está diseñado para ser intuitivo, ofreciendo insights en tiempo real y facilitando el acceso a información clave para la toma de decisiones estratégicas. Los usuarios podrán visualizar métricas importantes, tendencias y alertas de manera eficiente.
+
+Estos productos son esenciales para alcanzar los objetivos del proyecto y están alineados con las necesidades específicas del cliente, garantizando que cada entrega agregue valor significativo al negocio.
+
+
 ## Gantt de Actividades
 
 <div align="center">
