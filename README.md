@@ -63,7 +63,6 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 
 # Solucion Propuesta:
 <br>
-
 ## Metodología de Trabajo
 
 La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum**, una forma ágil y flexible de manejar proyectos de desarrollo de software. Scrum se centra en la entrega continua de valor a través de ciclos iterativos y incrementales conocidos como *Sprints*.
