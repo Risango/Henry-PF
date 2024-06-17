@@ -1,4 +1,5 @@
-# Proyecto Final: Yelp & Google Maps - Reseñas y Recomendaciones
+# Proyecto Final: Yelp & Google Maps - Reseñas y Recomendaciones: 
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Risango/Henry-PF/main/DALL%C2%B7E%202024-06-16%2018.31.54%20-%20A%20professional%20and%20modern%20logo%20for%20a%20data%20consultancy%20company%20named%20'Insightful%20Data%20Solutions'.%20The%20logo%20should%20feature%20a%20sleek%20and%20minimalist%20design.webp" alt="Insightful Data Solutions Logo" width="250"/>
@@ -61,6 +62,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
 
 # Solucion Propuesta:
+
 
 ## Metodología de Trabajo
 
@@ -125,8 +127,12 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
+## Stack Tecnologico
+
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
 - **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
 
+
+# EDA Preliminar:
