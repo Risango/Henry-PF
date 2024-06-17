@@ -131,6 +131,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 ## Stack Tecnologico
 
+## Calidad de los Datos
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
