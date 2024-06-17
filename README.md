@@ -64,7 +64,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   - **Frecuencia de palabras clave positivas/negativas en reseñas:** Meta: Determinar que las categorías con mayor frecuencia de palabras clave positivas muestren un incremento del 10% anual en calificaciones.
   - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
 
-### Solucion Propuesta
+# Solucion Propuesta:
 
 ## Metodología de Trabajo
 La metodología empleada en este proyecto se basa en prácticas ágiles y ciclos iterativos de desarrollo. Cada sprint se enfoca en la entrega de componentes específicos del proyecto, permitiendo revisiones constantes y adaptaciones según sea necesario. Esto asegura que el proyecto se mantenga alineado con los objetivos del negocio y responda de manera flexible a cualquier cambio en los requisitos o prioridades del cliente.
