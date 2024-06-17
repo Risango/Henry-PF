@@ -36,10 +36,6 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 3. **Entrenamiento y puesta en producción de un modelo de machine learning:**
    - El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se planteen como proyecto.
 
-## Datasets y Fuentes Complementarias
-- **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
-- **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
-
 ## Objetivos del Proyecto
 1. **Identificar la mejor ubicación y tipo de negocio:**
    - Determinar en qué localización geográfica y con qué características abrir nuevos locales para maximizar el éxito basado en las reseñas.
@@ -116,4 +112,7 @@ La distribución de tareas se ha asignado meticulosamente para aprovechar las es
   <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
+## Datasets y Fuentes Complementarias
+- **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
+- **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
 
