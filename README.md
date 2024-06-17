@@ -67,13 +67,31 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 # Solucion Propuesta:
 
 ## Metodología de Trabajo
-La metodología empleada en este proyecto se basa en prácticas ágiles y ciclos iterativos de desarrollo. Cada sprint se enfoca en la entrega de componentes específicos del proyecto, permitiendo revisiones constantes y adaptaciones según sea necesario. Esto asegura que el proyecto se mantenga alineado con los objetivos del negocio y responda de manera flexible a cualquier cambio en los requisitos o prioridades del cliente.
 
-- **Sprint 1** se centra en la planificación, definición de alcance y preparación del entorno de trabajo, incluyendo la configuración de herramientas y tecnologías necesarias.
-- **Sprint 2** aborda el desarrollo de la arquitectura de datos, la integración de fuentes de datos y la automatización de procesos de ETL, además de la preparación inicial de reportes y dashboards.
-- **Sprint 3** se dedica al afinamiento de modelos de machine learning, implementación en producción y documentación completa del proyecto.
+La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum**, una forma ágil y flexible de manejar proyectos de desarrollo de software. Scrum se centra en la entrega continua de valor a través de ciclos iterativos y incrementales conocidos como *Sprints*.
 
-La colaboración interdisciplinaria entre los miembros del equipo garantiza que cada aspecto del proyecto sea manejado por expertos en la materia, optimizando los resultados y la eficiencia del desarrollo.
+### Sprint 1: Iniciación y Preparación
+- **Planificación del Sprint**: Definición de las historias de usuario y tareas necesarias para este sprint.
+- **Configuración del entorno de trabajo**: Instalación y configuración de todas las herramientas y tecnologías necesarias.
+- **Sprint Planning**: Establecimiento de objetivos y entrega de componentes específicos alineados con los objetivos del negocio.
+- **Daily Scrum**: Reuniones diarias para evaluar el progreso y adaptar el backlog según sea necesario.
+- **Revisión del Sprint**: Al final del sprint, se revisa el trabajo completado y se presentan los incrementos del producto.
+
+### Sprint 2: Desarrollo y Construcción
+- **Desarrollo de la arquitectura de datos**: Creación de modelos de datos eficientes y escalables.
+- **Integración de fuentes de datos y ETL**: Automatización del procesamiento y consolidación de datos.
+- **Daily Scrum**: Seguimiento diario para discutir avances y obstáculos.
+- **Revisión y Retrospectiva del Sprint**: Evaluación del sprint para identificar mejoras y preparar el siguiente ciclo.
+
+### Sprint 3: Implementación y Optimización
+- **Afinamiento de modelos de machine learning**: Optimización de algoritmos y parámetros.
+- **Implementación en producción**: Despliegue de modelos en el entorno de producción.
+- **Documentación completa del proyecto**: Creación de documentos detallados y guías de usuario.
+- **Daily Scrum**: Reuniones para asegurar que todos los miembros del equipo están alineados.
+- **Revisión del Sprint y Retrospectiva**: Revisión final para asegurar la calidad y completitud del proyecto.
+
+La colaboración interdisciplinaria entre los miembros del equipo es fundamental en Scrum, asegurando que cada aspecto del proyecto sea manejado por expertos en la materia, lo que optimiza los resultados y la eficiencia del desarrollo. Cada Sprint termina con una retrospectiva que permite al equipo reflexionar sobre sus procesos y buscar formas de mejorar en los siguientes ciclos.
+
 
 ## Integrantes y Roles
 
