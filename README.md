@@ -1,6 +1,6 @@
 # Proyecto Final: Yelp & Google Maps - Reviews and Recommendations
 
-https://raw.githubusercontent.com/Risango/Henry-PF/main/DALL%C2%B7E%202024-06-16%2018.31.54%20-%20A%20professional%20and%20modern%20logo%20for%20a%20data%20consultancy%20company%20named%20'Insightful%20Data%20Solutions'.%20The%20logo%20should%20feature%20a%20sleek%20and%20minimalist%20design.webp
+![logo](https://raw.githubusercontent.com/Risango/Henry-PF/main/DALL%C2%B7E%202024-06-16%2018.31.54%20-%20A%20professional%20and%20modern%20logo%20for%20a%20data%20consultancy%20company%20named%20'Insightful%20Data%20Solutions'.%20The%20logo%20should%20feature%20a%20sleek%20and%20minimalist%20design.webp)
 
 
 ## Situación Actual
