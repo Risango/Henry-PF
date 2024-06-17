@@ -112,6 +112,7 @@ La distribución de tareas se ha asignado meticulosamente para aprovechar las es
   <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
+
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
 - **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
