@@ -65,6 +65,9 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
 
 ## Integrantes y Roles
+
+<div align="center">
+
 | Nombre                               | Siglas | Rol                                       |
 |--------------------------------------|--------|-------------------------------------------|
 | Angel David Mariscal Soto            | AD     | Data Analyst (DA), Data Engineer (DE)     |
@@ -73,6 +76,8 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 | Carlos Andres Ibarra Bolaños         | CA     | Data Analyst (DA), Data Engineer (DE)     |
 | Jorge Enrique Caicedo Riascos        | JE     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
 | Raul Rodrigo Penayo                  | RR     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
+
+</div>
 
 ## Actividades Divididas por Integrantes
 | #  | Sprint | Actividad                                                | Responsable                                | Colaboradores           |
