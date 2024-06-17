@@ -12,7 +12,7 @@ Estamos desarrollando una solución personalizada para este conglomerado, que in
 
 Este proyecto representa una aplicación directa de nuestra capacidad para convertir los datos en estrategias de negocio profundas y acciones específicas, abordando una problemática existente con una solución innovadora y basada en datos.
 
-##Alcance
+## Alcance
 El objetivo general de este proyecto es desarrollar una solución integral de análisis y recomendación basada en datos de reseñas de usuarios en plataformas como Yelp y Google Maps. Esta solución permitirá identificar tendencias en la satisfacción del cliente, predecir áreas de crecimiento o declive potencial, y optimizar las estrategias de marketing y expansión de nuestros clientes en el sector de turismo y hospitalidad. El producto final incluirá un sistema de recomendación personalizado que ayudará a los usuarios a descubrir nuevas experiencias basadas en sus preferencias y experiencias previas.
 
 ## Contexto
