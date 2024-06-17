@@ -64,6 +64,17 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   - **Frecuencia de palabras clave positivas/negativas en reseñas:** Meta: Determinar que las categorías con mayor frecuencia de palabras clave positivas muestren un incremento del 10% anual en calificaciones.
   - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
 
+### Solucion Propuesta
+
+## Metodología de Trabajo
+La metodología empleada en este proyecto se basa en prácticas ágiles y ciclos iterativos de desarrollo. Cada sprint se enfoca en la entrega de componentes específicos del proyecto, permitiendo revisiones constantes y adaptaciones según sea necesario. Esto asegura que el proyecto se mantenga alineado con los objetivos del negocio y responda de manera flexible a cualquier cambio en los requisitos o prioridades del cliente.
+
+- **Sprint 1** se centra en la planificación, definición de alcance y preparación del entorno de trabajo, incluyendo la configuración de herramientas y tecnologías necesarias.
+- **Sprint 2** aborda el desarrollo de la arquitectura de datos, la integración de fuentes de datos y la automatización de procesos de ETL, además de la preparación inicial de reportes y dashboards.
+- **Sprint 3** se dedica al afinamiento de modelos de machine learning, implementación en producción y documentación completa del proyecto.
+
+La colaboración interdisciplinaria entre los miembros del equipo garantiza que cada aspecto del proyecto sea manejado por expertos en la materia, optimizando los resultados y la eficiencia del desarrollo.
+
 ## Integrantes y Roles
 
 <div align="center">
@@ -85,11 +96,4 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
   <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
-## Metodología de Trabajo
-La metodología empleada en este proyecto se basa en prácticas ágiles y ciclos iterativos de desarrollo. Cada sprint se enfoca en la entrega de componentes específicos del proyecto, permitiendo revisiones constantes y adaptaciones según sea necesario. Esto asegura que el proyecto se mantenga alineado con los objetivos del negocio y responda de manera flexible a cualquier cambio en los requisitos o prioridades del cliente.
 
-- **Sprint 1** se centra en la planificación, definición de alcance y preparación del entorno de trabajo, incluyendo la configuración de herramientas y tecnologías necesarias.
-- **Sprint 2** aborda el desarrollo de la arquitectura de datos, la integración de fuentes de datos y la automatización de procesos de ETL, además de la preparación inicial de reportes y dashboards.
-- **Sprint 3** se dedica al afinamiento de modelos de machine learning, implementación en producción y documentación completa del proyecto.
-
-La colaboración interdisciplinaria entre los miembros del equipo garantiza que cada aspecto del proyecto sea manejado por expertos en la materia, optimizando los resultados y la eficiencia del desarrollo.
