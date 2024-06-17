@@ -82,7 +82,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 ## Gantt de Actividades
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="500">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="700">
 </div>
 
 
