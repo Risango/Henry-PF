@@ -79,6 +79,13 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 
 </div>
 
+## Gantt de Actividades
+
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="500">
+</div>
+
+
 ## Actividades Divididas por Integrantes
 | #  | Sprint | Actividad                                                | Responsable                                | Colaboradores           |
 |----|--------|----------------------------------------------------------|--------------------------------------------|-------------------------|
