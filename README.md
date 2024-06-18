@@ -5,6 +5,23 @@
   <img src="https://raw.githubusercontent.com/Risango/Henry-PF/main/DALL%C2%B7E%202024-06-16%2018.31.54%20-%20A%20professional%20and%20modern%20logo%20for%20a%20data%20consultancy%20company%20named%20'Insightful%20Data%20Solutions'.%20The%20logo%20should%20feature%20a%20sleek%20and%20minimalist%20design.webp" alt="Insightful Data Solutions Logo" width="250"/>
 </div>
 
+## Integrantes y Roles
+
+<div align="center">
+
+| Nombre                               | Siglas | Rol                                       |
+|--------------------------------------|--------|-------------------------------------------|
+| Angel David Mariscal Soto            | AD     | Data Analyst (DA), Data Engineer (DE)     |
+| Ricardo Andres Santana Contreras     | RS     | Project Manager (PM), Business Analyst (BA)|
+| Daniel Gomero Alegre                 | DG     | Machine Learning Engineer (MLE)           |
+| Carlos Andres Ibarra Bolaños         | CA     | Data Analyst (DA), Data Engineer (DE)     |
+| Jorge Enrique Caicedo Riascos        | JE     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
+| Raul Rodrigo Penayo                  | RR     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
+
+</div>
+
+La distribución de tareas se ha asignado meticulosamente para aprovechar las especialidades y habilidades de cada integrante, asegurando así una ejecución eficiente y efectiva de cada sprint. Ricardo Andres Santana Contreras, como Project Manager y Business Analyst, lidera la planificación y gestión del proyecto, asegurando que los objetivos del sprint se alineen con las necesidades del negocio y coordinando las actividades del equipo. Angel David Mariscal Soto y Carlos Andres Ibarra Bolaños, ambos Data Analysts y Data Engineers, se encargan del desarrollo y mantenimiento de la arquitectura de datos, además de implementar procesos de ETL y automatización necesarios para el manejo eficiente de los datos. Daniel Gomero Alegre, nuestro Machine Learning Engineer, lidera el desarrollo y afinamiento de los modelos de machine learning, asegurando su integración y funcionamiento óptimo en la producción. Por otro lado, Jorge Enrique Caicedo Riascos y Raul Rodrigo Penayo, ambos Business Intelligence Analysts y Data Analysts, son fundamentales en la creación de dashboards y reportes, proporcionando insights críticos a través del análisis avanzado de datos para informar decisiones estratégicas.
+
 
 ## Situación Actual
 Como **Insightful Data Solutions**, somos una consultora de vanguardia especializada en transformar datos complejos en soluciones claras y accionables para una variedad de industrias. Nos dedicamos a proporcionar servicios de análisis avanzados, integración de datos y soluciones de inteligencia empresarial, apoyando a las empresas en la optimización de sus operaciones y estrategias de marketing mediante el uso eficaz de los datos.
@@ -107,23 +124,6 @@ La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum
 
 La colaboración interdisciplinaria entre los miembros del equipo es fundamental en Scrum, asegurando que cada aspecto del proyecto sea manejado por expertos en la materia, lo que optimiza los resultados y la eficiencia del desarrollo. Cada Sprint termina con una retrospectiva que permite al equipo reflexionar sobre sus procesos y buscar formas de mejorar en los siguientes ciclos.
 
-
-## Integrantes y Roles
-
-<div align="center">
-
-| Nombre                               | Siglas | Rol                                       |
-|--------------------------------------|--------|-------------------------------------------|
-| Angel David Mariscal Soto            | AD     | Data Analyst (DA), Data Engineer (DE)     |
-| Ricardo Andres Santana Contreras     | RS     | Project Manager (PM), Business Analyst (BA)|
-| Daniel Gomero Alegre                 | DG     | Machine Learning Engineer (MLE)           |
-| Carlos Andres Ibarra Bolaños         | CA     | Data Analyst (DA), Data Engineer (DE)     |
-| Jorge Enrique Caicedo Riascos        | JE     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
-| Raul Rodrigo Penayo                  | RR     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
-
-</div>
-
-La distribución de tareas se ha asignado meticulosamente para aprovechar las especialidades y habilidades de cada integrante, asegurando así una ejecución eficiente y efectiva de cada sprint. Ricardo Andres Santana Contreras, como Project Manager y Business Analyst, lidera la planificación y gestión del proyecto, asegurando que los objetivos del sprint se alineen con las necesidades del negocio y coordinando las actividades del equipo. Angel David Mariscal Soto y Carlos Andres Ibarra Bolaños, ambos Data Analysts y Data Engineers, se encargan del desarrollo y mantenimiento de la arquitectura de datos, además de implementar procesos de ETL y automatización necesarios para el manejo eficiente de los datos. Daniel Gomero Alegre, nuestro Machine Learning Engineer, lidera el desarrollo y afinamiento de los modelos de machine learning, asegurando su integración y funcionamiento óptimo en la producción. Por otro lado, Jorge Enrique Caicedo Riascos y Raul Rodrigo Penayo, ambos Business Intelligence Analysts y Data Analysts, son fundamentales en la creación de dashboards y reportes, proporcionando insights críticos a través del análisis avanzado de datos para informar decisiones estratégicas.
 
 ## Productos a Entregar
 
