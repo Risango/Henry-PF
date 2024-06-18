@@ -41,7 +41,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 4. **Crear un sistema de recomendación personalizado:**
    - Implementar un sistema de recomendación que sugiera restaurantes y otros negocios basados en las experiencias y preferencias de los usuarios.
 
-## KPIs Redefinidos del Proyecto
+## KPIs
 
 ### Para Identificar la Mejor Ubicación y Tipo de Negocio:
 - **Índice de Calificaciones Positivas por Ubicación**:
