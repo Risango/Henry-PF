@@ -5,9 +5,6 @@
 </p>
 
 
-
-</div>
-
 ## Integrantes y Roles
 
 <div align="center">
