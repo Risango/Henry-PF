@@ -1,7 +1,8 @@
 # Proyecto Final: Yelp & Google Maps - Reseñas y Recomendaciones: 
 
-<img src="https://github.com/Risango/Henry-PF/assets/128632484/a7659e9c-582e-496d-b113-1e8b59a9264d" alt="2_Mesa de trabajo 1" width="2000" height="600">
-
+<p align="center">
+  <img src="https://github.com/Risango/Henry-PF/assets/128632484/a7659e9c-582e-496d-b113-1e8b59a9264d" alt="2_Mesa de trabajo 1" style="width:80%;">
+</p>
 
 
 
