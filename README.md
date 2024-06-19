@@ -101,7 +101,7 @@ Como parte de una consultora de datos, nos han contratado para poder realizar un
 ## Metodología de Trabajo
 
 <p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Scrum%20Framework.jpeg?raw=true" alt="Scrum Framework" style="width:50%;">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/Scrum%20Framework.jpeg?raw=true" alt="Scrum Framework" style="width:30%;">
 </p>
 
 
