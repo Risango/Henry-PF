@@ -176,6 +176,61 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 9. **Despliegue del Modelo de ML**: 
    - Google AI Platform, Flask, FastAPI
 
+## Justificacion de la Arquitectura: 
+
+## 1. Almacenamiento de Datos
+### Google BigQuery
+- **Definición**: Google BigQuery es un servicio de almacenamiento y análisis de datos de Google Cloud. Es un data warehouse totalmente administrado y altamente escalable.
+- **Utilidad**: Permite ejecutar consultas SQL sobre grandes conjuntos de datos de manera rápida y escalable. Ideal para análisis de datos en tiempo real y procesamiento de grandes volúmenes de datos sin necesidad de gestionar la infraestructura subyacente.
+
+## 2. Procesamiento y Transformación ETL
+### Procesamiento ETL
+- **Definición**: ETL (Extract, Transform, Load) es el proceso de extracción de datos de diversas fuentes, su transformación (limpieza, corrección de errores, normalización) y carga en un sistema de almacenamiento.
+- **Utilidad**: Asegura que los datos estén limpios, precisos y en un formato adecuado para su análisis. Incluye eliminación de datos incompletos, corrección de errores, normalización de formatos, aplicación de reglas de negocio, agregaciones, cálculos derivados e integración de datos de diferentes fuentes.
+
+## 3. Procesamiento Distribuido
+### Apache Spark
+- **Definición**: Apache Spark es un motor de procesamiento distribuido de código abierto que ofrece una interfaz para la programación de clusters completos con paralelismo implícito y tolerancia a fallos.
+- **Utilidad**: Permite el procesamiento rápido de grandes volúmenes de datos en paralelo, lo cual es ideal para tareas de análisis y transformación de datos a gran escala.
+
+## 4. Orquestación de Pipelines
+### Apache Airflow
+- **Definición**: Apache Airflow es una plataforma de código abierto para la creación, programación y monitoreo de flujos de trabajo programados.
+- **Utilidad**: Automatiza y orquesta los pipelines de ETL, asegurando que los datos se procesen y transformen de manera sistemática y en el orden correcto. Permite la programación y monitorización de tareas, facilitando la gestión de workflows complejos.
+
+## 5. Lenguajes y Frameworks
+### Python y sus Librerías
+- **Python**: Un lenguaje de programación versátil y ampliamente utilizado en data science por su simplicidad y potencia.
+  - **pyspark**: Integra Spark con Python para el procesamiento distribuido.
+  - **pandas**: Facilita la manipulación y análisis de datos estructurados.
+  - **numpy**: Proporciona soporte para grandes matrices y operaciones matemáticas.
+  - **matplotlib y seaborn**: Librerías para la visualización de datos.
+  - **airflow**: Para la creación y gestión de workflows ETL.
+
+## 6. Herramientas de Visualización
+### Power BI y Streamlit
+- **Power BI**: Una herramienta de Microsoft para la creación de informes interactivos y dashboards.
+  - **Utilidad**: Permite a los usuarios no técnicos explorar y visualizar datos de manera interactiva.
+- **Streamlit**: Un framework en Python para crear aplicaciones web interactivas y visualizaciones de datos.
+  - **Utilidad**: Facilita la creación rápida de interfaces de usuario para modelos de ML y análisis de datos, permitiendo compartir insights fácilmente.
+
+## 7. Diseño de Modelos ER y Gestión de Bases de Datos
+### MySQL Workbench
+- **Definición**: Una herramienta visual de diseño de bases de datos que permite la modelación de datos y la administración de bases de datos MySQL.
+- **Utilidad**: Ayuda en la creación de modelos de datos relacionales, diseño de esquemas de bases de datos y gestión de bases de datos MySQL.
+
+## 8. Despliegue del Modelo de ML
+### Google AI Platform, Flask, FastAPI
+- **Google AI Platform**:
+  - **Definición**: Una plataforma de Google Cloud para entrenar, validar, desplegar y gestionar modelos de machine learning.
+  - **Utilidad**: Facilita el despliegue escalable de modelos de ML en producción, aprovechando la infraestructura de Google Cloud.
+- **Flask**:
+  - **Definición**: Un microframework de Python para desarrollar aplicaciones web.
+  - **Utilidad**: Ideal para crear APIs simples para servir modelos de ML.
+- **FastAPI**:
+  - **Definición**: Un framework web moderno y rápido (de alto rendimiento) para construir APIs con Python 3.7+ basado en estándares como OpenAPI.
+  - **Utilidad**: Permite construir y desplegar APIs para modelos de ML de manera rápida y eficiente, con excelente rendimiento.
+
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
