@@ -124,6 +124,9 @@ La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum
 
 La colaboración interdisciplinaria entre los miembros del equipo es fundamental en Scrum, asegurando que cada aspecto del proyecto sea manejado por expertos en la materia, lo que optimiza los resultados y la eficiencia del desarrollo. Cada Sprint termina con una retrospectiva que permite al equipo reflexionar sobre sus procesos y buscar formas de mejorar en los siguientes ciclos.
 
+<p align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/Scrum%20Framework.jpeg?raw=true" alt="Scrum Framework" style="width:80%;">
+</p>
 
 ## Productos a Entregar
 
