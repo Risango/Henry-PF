@@ -150,6 +150,33 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   <img src="https://github.com/Risango/Henry-PF/blob/main/Stack%20Tecnologico.jpeg?raw=true" alt="Stack Tecnologico" style="width:80%;">
 </p>
 
+## Resumen de la Arquitectura
+
+### Sprint #1:
+1. **Lenguajes y Frameworks**: 
+   - Python (pyspark, pandas, numpy, matplotlib, seaborn, airflow)
+
+### Sprint #2:
+2. **Almacenamiento de Datos**: 
+   - Google BigQuery
+3. **Procesamiento y Transformación ETL**: 
+   - Implementación de procesos de ETL (pandas, pyspark)
+4. **Lenguajes y Frameworks**: 
+   - Python (pyspark, pandas, numpy, matplotlib, seaborn, airflow)
+5. **Diseño y Gestión de Bases de Datos**: 
+   - MySQL Workbench
+6. **Visualización de Datos**: 
+   - Power BI, Streamlit
+
+### Sprint #3:
+7. **Procesamiento Distribuido**: 
+   - Apache Spark
+8. **Orquestación de Pipelines**: 
+   - Apache Airflow
+9. **Despliegue del Modelo de ML**: 
+   - Google AI Platform, Flask, FastAPI
+
+
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
 - **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
