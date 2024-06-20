@@ -228,7 +228,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 # EDA Preliminar:
 <br>
-## **Tecnologías, Herramientas y Lenguajes utilizados**
+Tecnologías, Herramientas y Lenguajes utilizados
 
 - Para el desarrollo del EDA:<br><center>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
