@@ -2,19 +2,6 @@
 ![edfadsf-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/1f8bd01e-b399-4c18-a98d-ae5bfa500ca1)
 
 
-## Integrantes y Roles
-
-<div align="center">
-
-| Nombre                               | Siglas | Rol                                       |
-|--------------------------------------|--------|-------------------------------------------|
-| Angel David Mariscal Soto            | AD     | Data Analyst (DA), Data Engineer (DE)     |
-| Ricardo Andres Santana Contreras     | RS     | Project Manager (PM), Business Analyst (BA)|
-| Daniel Gomero Alegre                 | DG     | Machine Learning Engineer (MLE)           |
-| Carlos Andres Ibarra Bolaños         | CA     | Data Analyst (DA), Data Engineer (DE)     |
-| Jorge Enrique Caicedo Riascos        | JE     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
-| Raul Rodrigo Penayo                  | RR     | Business Intelligence Analyst (BIA), Data Analyst (DA)|
-
 </div>
 
 La distribución de tareas se ha asignado meticulosamente para aprovechar las especialidades y habilidades de cada integrante, asegurando así una ejecución eficiente y efectiva de cada sprint. Ricardo Andres Santana Contreras, como Project Manager y Business Analyst, lidera la planificación y gestión del proyecto, asegurando que los objetivos del sprint se alineen con las necesidades del negocio y coordinando las actividades del equipo. Angel David Mariscal Soto y Carlos Andres Ibarra Bolaños, ambos Data Analysts y Data Engineers, se encargan del desarrollo y mantenimiento de la arquitectura de datos, además de implementar procesos de ETL y automatización necesarios para el manejo eficiente de los datos. Daniel Gomero Alegre, nuestro Machine Learning Engineer, lidera el desarrollo y afinamiento de los modelos de machine learning, asegurando su integración y funcionamiento óptimo en la producción. Por otro lado, Jorge Enrique Caicedo Riascos y Raul Rodrigo Penayo, ambos Business Intelligence Analysts y Data Analysts, son fundamentales en la creación de dashboards y reportes, proporcionando insights críticos a través del análisis avanzado de datos para informar decisiones estratégicas.
