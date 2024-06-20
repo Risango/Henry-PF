@@ -1,8 +1,5 @@
 # Proyecto Final: Yelp & Google Maps - Reseñas y Recomendaciones: 
-
-<p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Logo.jpeg?raw=true" alt="Logo" style="width:50%;">
-</p>
+![edfadsf-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/1f8bd01e-b399-4c18-a98d-ae5bfa500ca1)
 
 
 ## Integrantes y Roles
