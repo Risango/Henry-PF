@@ -12,35 +12,32 @@ Como **Insightful Data Solutions**, somos una consultora de vanguardia especiali
 
 Nuestra gama de productos incluye desde soluciones de almacenamiento de datos hasta plataformas de análisis predictivo y sistemas de recomendación personalizados. Nuestra experiencia abarca diversos sectores, incluyendo retail, turismo, y hospitalidad, donde aplicamos nuestra profunda comprensión de las necesidades de datos para impulsar la toma de decisiones basada en evidencias.
 
-En el contexto actual, enfrentamos el desafío de mejorar la experiencia del cliente en el ámbito del turismo y la hospitalidad. Un conglomerado de empresas en este sector ha observado una variabilidad significativa en las opiniones de los clientes sobre sus servicios, lo que ha impactado directamente en su rendimiento y percepción de marca. Esta situación destaca la necesidad crítica de una estrategia refinada de ubicación y servicio basada en una comprensión más profunda de las preferencias y comportamientos del cliente.
+En el contexto actual, enfrentamos el desafío de mejorar la experiencia del cliente en el ámbito de retail. Dukin' ha observado una variabilidad significativa en las opiniones de los clientes sobre sus servicios, lo que ha impactado directamente en su rendimiento, percepción de marca y posicion en el mercado. Esta situación destaca la necesidad crítica de una estrategia refinada de ubicación y servicio basada en una comprensión más profunda de las preferencias y comportamientos de los usuarios del cliente.
 
 **Proyecto en Desarrollo:**
-Estamos desarrollando una solución personalizada para este conglomerado, que involucra la creación de un sistema de análisis de reseñas en plataformas como Yelp y Google Maps. Esta solución está diseñada para identificar tendencias en la satisfacción del cliente y predecir áreas de crecimiento potencial o riesgo, permitiendo a nuestro cliente adaptar sus estrategias de marketing y expansión de manera más informada y efectiva. El producto final busca no solo mejorar la ubicación y la calidad de los nuevos establecimientos, sino también optimizar las campañas de marketing y aumentar la retención y satisfacción del cliente a través de recomendaciones personalizadas basadas en el análisis de grandes volúmenes de datos de reseñas.
+Estamos desarrollando una solución personalizada para Dunkin', que involucra la creación de un sistema de análisis de reseñas en plataformas como Yelp y Google Maps. Esta solución está diseñada para identificar tendencias en la satisfacción del cliente y predecir áreas de crecimiento potencial o riesgo, permitiendo a nuestro cliente adaptar sus estrategias de marketing y expansión de manera más informada y efectiva. El producto final busca no solo mejorar la ubicación y la calidad de los nuevos establecimientos, sino también optimizar las campañas de marketing y aumentar la retención y satisfacción del cliente a través de recomendaciones personalizadas basadas en el análisis de grandes volúmenes de datos de reseñas.
 
 Este proyecto representa una aplicación directa de nuestra capacidad para convertir los datos en estrategias de negocio profundas y acciones específicas, abordando una problemática existente con una solución innovadora y basada en datos.
 
 ## Alcance
-El objetivo general de este proyecto es desarrollar una solución integral de análisis y recomendación basada en datos de reseñas de usuarios en plataformas como Yelp y Google Maps. Esta solución permitirá identificar tendencias en la satisfacción del cliente, predecir áreas de crecimiento o declive potencial, y optimizar las estrategias de marketing y expansión de nuestros clientes en el sector de turismo y hospitalidad. 
+El objetivo general de este proyecto es desarrollar una solución integral de análisis y recomendación basada en datos de reseñas de usuarios en plataformas como Yelp y Google Maps para la tienda de conveniencia Dunkin'. Esta solución permitirá identificar tendencias en la satisfacción del cliente, predecir áreas de crecimiento o declive potencial, y optimizar las estrategias de marketing y expansión de nuestros clientes en el sector de turismo y hospitalidad. Nuestro cliente nos ha contactado ya que busca incrementar su presencia el mercado de forma que logre superar a sus competidores.
+
 
 ## Contexto
 La opinión de los usuarios es un dato muy valioso que crece día a día gracias a plataformas de reseñas. Su análisis puede ser determinante para la planificación de estrategias. Yelp es una plataforma de reseñas de todo tipo de negocios (restaurantes, hoteles, servicios, entre otros). Los usuarios utilizan el servicio y luego suben su reseña según la experiencia que han recibido. Esta información es muy valiosa para las empresas ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales, siendo útil para medir el desempeño y utilidad del local, además de saber en qué aspectos hay que mejorar el servicio.
 
 Además, Google posee una plataforma de reseñas de todo tipo de negocios (restaurantes, hoteles, servicios, entre otros) integrada en su servicio de localización y mapas Google Maps. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales, siendo muy útil para medir el desempeño y utilidad del local, además de identificar los aspectos del servicio a mejorar.
 
-## Rol a Desarrollar
-Como parte de una consultora de datos, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos para predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle al usuario, por ejemplo, la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas.
-
-
 
 ## Objetivos del Proyecto
-1. **Identificar la mejor ubicación y tipo de negocio:**
-   - Determinar en qué localización geográfica y con qué características abrir nuevos locales para maximizar el éxito basado en las reseñas.
-2. **Mejorar la estrategia de marketing:**
-   - Mejorar las ventas y suministrar ideas para incrementar las ventas basadas en las reseñas de los usuarios.
-3. **Predecir tendencias del mercado:**
-   - Utilizar análisis de reseñas para predecir cuáles rubros de negocios tienen mayor probabilidad de crecimiento o declive en el futuro cercano.
+1. **Identificar ubicaciones ideales para apertura de tiendas de conveniencia:**
+   - Determinar en qué localización geográfica y con qué características abrir nuevos locales para maximizar el éxito basado en la información de reseñas de usuarios.
+2. **Medir el rendimiento de las estrategias de mercadotecnia:**
+   - Realizar seguimiento y monitoreo del nivel de las calificaciones de los clientes para que con esta información Dunkin' pueda mejorar su estrategia de ventas.
+3. **Predecir tendencias del mercado a nivel nacional:**
+   - Utilizar análisis de reseñas para predecir cuáles estados tienen mayor probabilidad de crecimiento o declive en el futuro cercano.
 4. **Crear un sistema de recomendación personalizado:**
-   - Implementar un sistema de recomendación que sugiera restaurantes y otros negocios basados en las experiencias y preferencias de los usuarios.
+   - Implementar un sistema de recomendación que sugiere a Dunkin' qué servicios muestran una calificación positiva en las experiencias y preferencias de los usuarios. Todo esto, para sugerir servicios que permitan a Dunkin' aumentar sus ventas.
 
 ## KPIs
 
