@@ -41,33 +41,34 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 
 ## KPIs
 
-### Para Identificar la Mejor Ubicación y Tipo de Negocio:
+### Identificar Ubicaciones Ideales para Apertura de Locales:
 - **Índice de Calificaciones Positivas por Ubicación**:
   - **Fórmula**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
   - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
-  - **Meta**: Más del 75% de calificaciones positivas en ubicaciones seleccionadas.
+  - ** KPI Meta**: Más del 80% de calificaciones positivas en ubicaciones seleccionadas.
+ 
+- **Índice de Calificaciones Positivas por Cercania a Otros Rubros**:
+  - **Fórmula**: Número de reseñas con 4 o más estrellas / Número total de reseñas por cercania a otros rubros
+  - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
+  - **KPI Meta**: Más del 80% de calificaciones positivas en ubicaciones seleccionadas.
 
-### Para Mejorar la Estrategia de Marketing:
+### Medir el Rendimiento De las Estrategias de Mercadotecnia:
 - **Incremento en Calificaciones Promedio**:
   - **Fórmula**: (Calificación promedio actual - Calificación promedio anterior) / Calificación promedio anterior
   - **Datos**: `avg_rating` de `metadata_sitios`
-  - **Meta**: Aumento del 5% entre dos periodos consecutivos.
+  - **KPI Meta**: 10% o más de incremento año con año.
 - **Aumento en la Actividad de Reseñas**:
   - **Fórmula**: (Número de reseñas en el periodo actual - Número de reseñas en el periodo anterior) / Número de reseñas en el periodo anterior
   - **Datos**: `num_of_reviews` de `metadata_sitios`
-  - **Meta**: Incrementar el número de reseñas en un 10% entre dos periodos consecutivos.
+  - **KPI Meta**: 10% o más de incremento año con año.
 
-### Para Predecir Tendencias del Mercado:
+### Predecir Tendencias del Mercado a Nivel Nacional
 - **Tasa de Crecimiento Anual de Reseñas en Categorías Clave**:
   - **Fórmula**: (Número de reseñas al final del año - Número de reseñas al inicio del año) / Número de reseñas al inicio del año
   - **Datos**: `review_count` de `business.pkl`
-  - **Meta**: Incremento del 10% anual en categorías clave.
-    
-- **Para predecir tendencias del mercado:**
-  - **Tendencia de calificaciones por categoría de negocio:** Meta: Identificar al menos 5 categorías con una tendencia creciente de 0.2 estrellas por año.
-  - **Frecuencia de palabras clave positivas/negativas en reseñas:** Meta: Determinar que las categorías con mayor frecuencia de palabras clave positivas muestren un incremento del 10% anual en calificaciones.
-  - **Predicción de crecimiento en número de reseñas:** Meta: Prever un crecimiento del 15% anual en el número de reseñas para las categorías de negocio con mayor tendencia positiva.
+  - **Meta**: 20% o más de incremento año con año. 
 
+    
 # Solucion Propuesta:
 <br>
 
