@@ -164,7 +164,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 9. **Despliegue del Modelo de ML**: 
    - Google AI Platform, Flask, FastAPI
 
-## Justificación de la Arquitectura:
+## Ciclo de Vida del Dato & Justificación de la Arquitectura:
 
 ### 1. Almacenamiento de Datos
 #### Google BigQuery
