@@ -228,16 +228,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 # EDA Preliminar:
 <br>
-Tecnologías, Herramientas y Lenguajes utilizados
 
-- Para el desarrollo del EDA:<br><center>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)
-![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn) </center>
 
 ![sGDSG-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/50894d8a-72aa-49f2-a9aa-255deb08ab00)
 
