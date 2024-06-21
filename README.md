@@ -218,12 +218,6 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   - **Utilidad**: Permite construir y desplegar APIs para modelos de ML de manera rápida y eficiente, con excelente rendimiento.
 
 
-
-## Datasets y Fuentes Complementarias
-- **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
-- **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
-
-
 # EDA Preliminar:
 <br>
 
@@ -232,4 +226,6 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 ![googlemaps-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/3d061fd4-d419-4b23-a39c-b6ee082499a3)
 
-
+## Datasets y Fuentes Complementarias
+- **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
+- **Dataset de Yelp:** Información similar a la de Google Maps, con detalles adicionales sobre atributos del negocio, categorías, horarios, entre otros.
