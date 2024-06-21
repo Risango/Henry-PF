@@ -229,8 +229,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 # EDA Preliminar:
 <br>
 
-
-![sGDSG-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/50894d8a-72aa-49f2-a9aa-255deb08ab00)
+![yelp-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/7a5e8361-1569-4751-9c51-205a66af6aa0)
 
 
 ![googlemaps-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/3d061fd4-d419-4b23-a39c-b6ee082499a3)
