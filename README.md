@@ -239,4 +239,6 @@ Tecnologías, Herramientas y Lenguajes utilizados
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)
 ![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn) </center>
 
+![sGDSG-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/50894d8a-72aa-49f2-a9aa-255deb08ab00)
+
 ## Calidad de los Datos
