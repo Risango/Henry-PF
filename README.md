@@ -83,7 +83,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 ## Metodología de Trabajo
 
 <p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Scrum%20Framework.jpeg?raw=true" alt="Scrum Framework" style="width:30%;">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Scrum%20Framework.jpeg?raw=true" alt="Scrum Framework" style="width:30%;">
 </p>
 
 
@@ -127,13 +127,13 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 ## Gantt de Actividades
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
 ## Stack Tecnologico
 
 <p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/Stack%20Tecnologico.jpeg?raw=true" alt="Stack Tecnologico" style="width:80%;">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Stack%20Tecnologico.jpeg?raw=true" alt="Stack Tecnologico" style="width:80%;">
 </p>
 
 ## Resumen de la Arquitectura
