@@ -1,5 +1,4 @@
-# Proyecto Final: Yelp & Google Maps - Reseñas y Recomendaciones: 
-![edfadsf-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/1f8bd01e-b399-4c18-a98d-ae5bfa500ca1)
+![foto nuestrra-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/a1b5246a-42ba-4467-8cab-d96499e51d24)
 
 
 </div>
