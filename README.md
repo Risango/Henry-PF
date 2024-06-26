@@ -42,14 +42,16 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 
 ### Identificar Ubicaciones Ideales para Apertura de Locales:
 - **Índice de Calificaciones Positivas por Ubicación**:
-  - **Fórmula**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
+  - **Criterio**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
+  - **Fórmula**: (Índice promedio actual - Índice promedio anterior) / Índice promedio anterior
   - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
-  - ** KPI Meta**: Más del 80% de calificaciones positivas en ubicaciones seleccionadas.
+  - **KPI Meta**: 10% o más de incremento año con año.
  
 - **Índice de Calificaciones Positivas por Cercania a Otros Rubros**:
-  - **Fórmula**: Número de reseñas con 4 o más estrellas / Número total de reseñas por cercania a otros rubros
+  - **Criterio**: Número de reseñas con 4 o más estrellas / Número total de reseñas por cercania a otros rubros
+  - **Fórmula**: (Índice promedio actual - Índice promedio anterior) / Índice promedio anterior segmentado por cercania a otros rubros
   - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
-  - **KPI Meta**: Más del 80% de calificaciones positivas en ubicaciones seleccionadas.
+  - **KPI Meta**: 10% o más de incremento año con año.
 
 ### Medir el Rendimiento De las Estrategias de Mercadotecnia:
 - **Incremento en Calificaciones Promedio**:
