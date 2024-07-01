@@ -131,6 +131,8 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
 </div>
 
+# Data Engineering:
+
 ## Stack Tecnologico
 
 <p align="center">
@@ -217,6 +219,39 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 - **FastAPI**:
   - **Definición**: Un framework web moderno y rápido (de alto rendimiento) para construir APIs con Python 3.7+ basado en estándares como OpenAPI.
   - **Utilidad**: Permite construir y desplegar APIs para modelos de ML de manera rápida y eficiente, con excelente rendimiento.
+
+## Diccionario de datos:
+
+| Tabla            | Campo                   | Tipo de Dato | Descripción                                       | Ejemplo                                                |
+|------------------|-------------------------|--------------|---------------------------------------------------|--------------------------------------------------------|
+| Business         | Business_id             | String       | Es el id del negocio                              | --_lZuj_WCGnDG6n0emlRg                                 |
+| Business         | Name                    | String       | El nombre del negocio                             | Ross Dress for Less                                    |
+| Business         | Address                 | String       | El lugar del negocio                              | 700 Haddonfield Berlin Rd                              |
+| Business         | Latitude                | Float        | Es la coordenada de la latitud                    | 39.8501                                                |
+| Business         | Longitude               | Float        | Es la coordenada de la longitud                   | -74.98                                                 |
+| Business         | Rating                  | Float        | Es la calificación promedio                       | 2.0                                                    |
+| Business         | Review_Count            | Integer      | Es la cantidad de reviews                         | 13                                                     |
+| Business         | State                   | String       | Es el estado resumido en dos caracteres           | PA                                                     |
+| Categories       | Category_id             | Integer      | El id de la categoría                             | 2                                                      |
+| Categories       | Category                | String       | La categoría                                      | Vintage & Consignment                                  |
+| Business_Category| Business_Category_Id     | Integer      | El id de la tabla                                 | 4262                                                   |
+| Business_Category| Business_id             | String       | El id del negocio                                 | ewMNH7OxjqKZUHvZN5JFiw                                 |
+| Business_Category| Category_id             | Integer      | El id de la categoría que tiene el negocio        | 2                                                      |
+| Users            | User_id                 | String       | Es el id del usuario                              | ---2PmXbF47D870stH1jqA                                 |
+| Users            | Name                    | String       | Es nombre del usuario                             | Susan                                                  |
+| Reviews          | Review_id               | String       | Es el id de la critica                            | --2CDvzn64m9BAhe4JnKCg                                 |
+| Reviews          | Business_id             | String       | Es el id del negocio                              | jDOTVhWXkmLcsfM2KGd5Qg                                 |
+| Reviews          | User_id                 | String       | Es el id del usuario que escribió la critica      | Xw7ZjaGfr0WNVt6s_5KZfA                                  |
+| Reviews          | Rating                  | Float        | Es la calificación que marcó el usuario del negocio| 2.0                                                    |
+| Reviews          | Text                    | String       | Es el texto de la critica                         | No. Just...no. Heat. Crowds of pretentious people. I just can't do it. |
+| Reviews          | Date                    | Date         | Es la fecha en la que se escribió la critica      | 2013-08-04                                             |
+| Tips             | Tip_id                  | Integer      | Es el id de la crítica o 'tip'                    | 6                                                      |
+| Tips             | Business_id             | String       | Es el id del negocio                              | jDOTVhWXkmLcsfM2KGd5Qg                                 |
+| Tips             | User_id                 | String       | Es el id del usuario que escribió la crítica o 'tip'| Xw7ZjaGfr0WNVt6s_5KZfA                                 |
+| Tips             | Text                    | String       | Es el texto de la critica                         | No. Just...no. Heat. Crowds of pretentious people. I just can't do it. |
+| Tips             | Date                    | Date         | Es la fecha en la que se escribió la critica      | 2013-08-04                                             |
+| Tips             | Compliment_count        | Integer      | Es la cantidad de votos útiles hacia el 'tip'     | 1                                                      |
+
 
 
 # EDA Preliminar:
