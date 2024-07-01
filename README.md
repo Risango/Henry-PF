@@ -44,29 +44,29 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 - **Índice de Calificaciones Positivas por Ubicación**:
   - **Criterio**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
   - **Fórmula**: (Índice promedio actual - Índice promedio anterior) / Índice promedio anterior
-  - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
+  - **Datos**: `Rating` y `Review_Count`
   - **KPI Meta**: 10% o más de incremento año con año.
  
 - **Índice de Calificaciones Positivas por Cercania a Otros Rubros**:
   - **Criterio**: Número de reseñas con 4 o más estrellas / Número total de reseñas por cercania a otros rubros
   - **Fórmula**: (Índice promedio actual - Índice promedio anterior) / Índice promedio anterior segmentado por cercania a otros rubros
-  - **Datos**: `avg_rating` y `num_of_reviews` de `metadata_sitios`
+  - **Datos**: `Rating` y `Review_Count`
   - **KPI Meta**: 10% o más de incremento año con año.
 
 ### Medir el Rendimiento De las Estrategias de Mercadotecnia:
 - **Incremento en Calificaciones Promedio**:
   - **Fórmula**: (Calificación promedio actual - Calificación promedio anterior) / Calificación promedio anterior
-  - **Datos**: `avg_rating` de `metadata_sitios`
+  - **Datos**: `Rating` y `Review_Count`
   - **KPI Meta**: 10% o más de incremento año con año.
 - **Aumento en la Actividad de Reseñas**:
   - **Fórmula**: (Número de reseñas en el periodo actual - Número de reseñas en el periodo anterior) / Número de reseñas en el periodo anterior
-  - **Datos**: `num_of_reviews` de `metadata_sitios`
+  - **Datos**: `Rating` y `Review_Count`
   - **KPI Meta**: 10% o más de incremento año con año.
 
 ### Predecir Tendencias del Mercado a Nivel Nacional
 - **Tasa de Crecimiento Anual de Reseñas en Categorías Clave**:
   - **Fórmula**: (Número de reseñas al final del año - Número de reseñas al inicio del año) / Número de reseñas al inicio del año
-  - **Datos**: `review_count` de `business.pkl`
+  - **Datos**: `Rating` y `Review_Count`
   - **Meta**: 20% o más de incremento año con año. 
 
     
