@@ -252,7 +252,11 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 | Tips             | Date                    | Date         | Es la fecha en la que se escribió la critica      | 2013-08-04                                             |
 | Tips             | Compliment_count        | Integer      | Es la cantidad de votos útiles hacia el 'tip'     | 1                                                      |
 
+## Diagrama ER
 
+<p align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Diagrama%20ER.jpeg?raw=true" alt="Diagrama ER" width="600" height="400">
+</p>
 
 # EDA Preliminar:
 <br>
