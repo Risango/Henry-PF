@@ -1,6 +1,6 @@
 use BusinessReviewsDB;
 SET global local_infile = 1;
-GRANT FILE ON *.* TO 'root'@'localhost';
+
 select * from Business;
 ALTER TABLE Business
 ADD COLUMN State VARCHAR(2);
