@@ -1,0 +1,116 @@
+- name: business
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "Business_id"
+      type: "STRING"
+      mode: "REQUIRED"
+    - name: "Name"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Address"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Latitude"
+      type: "FLOAT"
+      mode: "NULLABLE"
+    - name: "Longitude"
+      type: "FLOAT"
+      mode: "NULLABLE"
+    - name: "Rating"
+      type: "FLOAT"
+      mode: "NULLABLE"
+    - name: "Review_count"
+      type: "INTEGER"
+      mode: "NULLABLE"
+    - name: "State"
+      type: "STRING"
+      mode: "NULLABLE"
+
+- name: reviews
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "Review_id"
+      type: "STRING"
+      mode: "REQUIRED"
+    - name: "Business_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "User_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Rating"
+      type: "FLOAT"
+      mode: "NULLABLE"
+    - name: "Text"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Date"
+      type: "DATE"
+      mode: "NULLABLE"
+
+- name: tips
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "Tip_id"
+      type: "INTEGER"
+      mode: "REQUIRED"
+    - name: "Business_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "User_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Text"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Date"
+      type: "DATETIME"
+      mode: "NULLABLE"
+    - name: "Compliment_count"
+      type: "INTEGER"
+      mode: "NULLABLE"
+
+- name: users
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "User_id"
+      type: "STRING"
+      mode: "REQUIRED"
+    - name: "Name"
+      type: "STRING"
+      mode: "NULLABLE"
+
+- name: categories
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "Category_id"
+      type: "INTEGER"
+      mode: "REQUIRED"
+    - name: "Category"
+      type: "STRING"
+      mode: "NULLABLE"
+
+- name: business_category
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema:
+    - name: "Business_Category_Id"
+      type: "INTEGER"
+      mode: "REQUIRED"
+    - name: "Business_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "Category_id"
+      type: "INTEGER"
+      mode: "NULLABLE"
