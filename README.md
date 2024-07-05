@@ -181,7 +181,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 7. **Procesamiento Distribuido**: 
    - Apache Spark
 8. **Orquestación de Pipelines**: 
-   - Apache Airflow
+   - Google functions
 9. **Despliegue del Modelo de ML**: 
    - Google AI Platform, Flask, FastAPI
 
@@ -207,8 +207,8 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 - **Utilidad**: Permite el procesamiento rápido de grandes volúmenes de datos en paralelo, lo cual es ideal para tareas de análisis y transformación de datos a gran escala.
 
 ### 4. Orquestación de Pipelines
-#### Apache Airflow
-- **Definición**: Apache Airflow es una plataforma de código abierto para la creación, programación y monitoreo de flujos de trabajo programados.
+#### Google functions
+- **Definición**: Google functions es una plataforma de código abierto para la creación, programación y monitoreo de flujos de trabajo programados.
 - **Utilidad**: Automatiza y orquesta los pipelines de ETL, asegurando que los datos se procesen y transformen de manera sistemática y en el orden correcto. Permite la programación y monitorización de tareas, facilitando la gestión de workflows complejos.
 
 ### 5. Lenguajes y Frameworks
