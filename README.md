@@ -259,7 +259,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 ## Diagrama ER
 
 <div align="center">
-  <img src="URL_OF_THE_SECOND_IMAGE" alt="Description of Second Image" width="1000">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Diagrama%20Entidad.png?raw=true" alt="Diagrama Entidad" width="1000">
 </div>
 
 # EDA Preliminar:
