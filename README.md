@@ -342,6 +342,8 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/MVP%20ML.png?raw=true" alt="MVP Machine Learning" style="width: 800px;" />
 </div>
 
+Este proyecto de Machine Learning está diseñado para analizar datos en tres áreas clave: ubicaciones potenciales para Dunkin', preferencias de los usuarios, y estados con mayor crecimiento o declive. Utilizando diversos conjuntos de datos como ratings, estados, latitud, longitud, año, reseñas, usuarios y negocios, generamos salidas específicas que ayudan a tomar decisiones informadas. Para Dunkin', identificamos posibles nuevas ubicaciones mediante la latitud y longitud. Analizamos las preferencias de los usuarios para entender mejor sus necesidades y mejorar el servicio, y finalmente, evaluamos el crecimiento o declive de los estados para ajustar nuestras estrategias de mercado. Este enfoque integral nos permite optimizar operaciones y maximizar el impacto en el mercado.
+
 # Siguientes Pasos
 
 <div align="center">
