@@ -340,21 +340,9 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 
 # Siguientes Pasos
 
-# Project Title
-
-Description of the project.
-
-## Next Steps
-
-Here is an image of the next steps:
-
 <div align="center">
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/siguientes%20pasos.png?raw=true" alt="Next Steps" style="width: 700px;" />
 </div>
-
-## Other Sections
-
-Continue with the rest of your README content.
 
 
 ## Datasets y Fuentes Complementarias
