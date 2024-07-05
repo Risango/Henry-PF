@@ -167,7 +167,9 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 ## Ciclo de Vida del Dato & Justificación de la Arquitectura:
 
-<img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/ciclo%20de%20vida%20del%20dato.png?raw=true" alt="Ciclo de Vida del Dato" width="500">
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/ciclo%20de%20vida%20del%20dato.png?raw=true" alt="Ciclo de Vida del Dato" width="800">
+</div>
 
 ### 1. Almacenamiento de Datos
 #### Google BigQuery
