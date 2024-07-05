@@ -340,6 +340,22 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 
 # Siguientes Pasos
 
+# Project Title
+
+Description of the project.
+
+## Next Steps
+
+Here is an image of the next steps:
+
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/siguientes%20pasos.png?raw=true" alt="Next Steps" style="width: 700px;" />
+</div>
+
+## Other Sections
+
+Continue with the rest of your README content.
+
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
