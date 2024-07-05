@@ -128,7 +128,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 ## Gantt de Actividades
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Gantt.png?raw=true" alt="Gantt Chart" width="1000">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Gantt%201.png?raw=true" alt="Gantt Chart 1" style="width: 800px;" />
 </div>
 
 # Data Engineering:
