@@ -303,6 +303,10 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Pipeline%20Carga%20Incremental.png?raw=true" alt="Pipeline Carga Incremental" width="1000">
 </div>
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6hyfh6FPalA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 # EDA Preliminar:
 <br>
 
