@@ -133,6 +133,14 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 # Data Engineering:
 
+## EDA Preliminar:
+<br>
+
+![yelp-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/7a5e8361-1569-4751-9c51-205a66af6aa0)
+
+
+![googlemaps-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/3d061fd4-d419-4b23-a39c-b6ee082499a3)
+
 ## Stack Tecnologico
 
 <p align="center">
@@ -310,13 +318,6 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
   </a>
 </div>
 
-# EDA Preliminar:
-<br>
-
-![yelp-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/7a5e8361-1569-4751-9c51-205a66af6aa0)
-
-
-![googlemaps-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/3d061fd4-d419-4b23-a39c-b6ee082499a3)
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
