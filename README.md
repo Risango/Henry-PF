@@ -133,7 +133,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 # Data Engineering:
 
-## EDA:
+## Analisis Exploratorio de Datos:
 <br>
 
 ![yelp-02](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/7a5e8361-1569-4751-9c51-205a66af6aa0)
