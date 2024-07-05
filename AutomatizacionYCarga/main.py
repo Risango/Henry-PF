@@ -7,11 +7,13 @@ from google.cloud import bigquery
 from google.cloud import storage
 import google.api_core.exceptions  # Importa el módulo google.api_core.exceptions
 import yaml
+import json
 
 with open("./schemas.yaml") as schema_file:
     config = yaml.load(schema_file, Loader=yaml.Loader)
 
-PROJECT_ID = os.getenv('vocal-framework-427422-q6')
+PROJECT_ID = 'vocal-framework-427422-q6'
+
 BQ_DATASET = 'Business_Reviews'
 CS = storage.Client()
 BQ = bigquery.Client()
@@ -63,19 +65,76 @@ def _check_if_table_exists(tableName, tableSchema):
         table = BQ.create_table(table)
         print("Created table {}.{}.{}".format(table.project, table.dataset_id, table.table_id))
 
+def extract_id_from_json(json_data, schema):
+    for field in schema:
+        if field.mode == 'REQUIRED':
+            field_name = field.name
+            if field_name in json_data:
+                return field_name, json_data[field_name]
+    return None, None
+
+def check_id_exists(tableName, id_field, id_value):
+    query = f"SELECT COUNT(1) as count FROM `{PROJECT_ID}.{BQ_DATASET}.{tableName}` WHERE CAST({id_field} AS STRING) = @id_value"
+    query_params = [
+        bigquery.ScalarQueryParameter("id_value", "STRING", str(id_value))
+    ]
+    job_config = bigquery.QueryJobConfig(query_parameters=query_params)
+    query_job = BQ.query(query, job_config=job_config)
+    results = query_job.result()
+    for row in results:
+        if row.count > 0:
+            return True
+    return False
+
 def _load_table_from_uri(bucket_name, file_name, tableSchema, tableName):
     uri = 'gs://%s/%s' % (bucket_name, file_name)
     table_id = BQ.dataset(BQ_DATASET).table(tableName)
 
     schema = create_schema_from_yaml(tableSchema)
     print(schema)
-    job_config.schema = schema
+    
+    # Descargar el archivo JSON desde el bucket
+    bucket = CS.bucket(bucket_name)
+    blob = bucket.blob(file_name)
+    content = blob.download_as_text().splitlines()  # Dividir en líneas
+    
+    valid_lines = []
+    for line in content:
+        json_data = json.loads(line)  # Cargar cada línea como JSON
+        # Extraer el ID del JSON
+        id_field, id_value = extract_id_from_json(json_data, schema)
+        
+        if id_field and id_value:
+            print(f"El ID de la tabla '{tableName}' es: {id_value}")
+            # Verificar si el ID existe en la tabla
+            if not check_id_exists(tableName, id_field, id_value):
+                valid_lines.append(line)
+            else:
+                print(f"El ID {id_value} ya existe en la tabla {tableName}. Eliminando registro.")
+        else:
+            print("ID no encontrado en el JSON.")
+            valid_lines.append(line)
 
+    if not valid_lines:
+        print("No hay datos válidos para cargar.")
+        return
+    
+    # Guardar las líneas válidas en un archivo temporal
+    temp_filename = f"/tmp/{file_name}"
+    with open(temp_filename, 'w') as temp_file:
+        temp_file.write("\n".join(valid_lines))
+    
+    job_config.schema = schema
     job_config.source_format = bigquery.SourceFormat.NEWLINE_DELIMITED_JSON
     job_config.write_disposition = 'WRITE_APPEND'
 
+    # Subir el archivo temporal al bucket
+    temp_blob = bucket.blob(f"temp/{file_name}")
+    temp_blob.upload_from_filename(temp_filename)
+    temp_uri = f'gs://{bucket_name}/temp/{file_name}'
+
     load_job = BQ.load_table_from_uri(
-        uri,
+        temp_uri,
         table_id,
         job_config=job_config,
     )
@@ -83,6 +142,8 @@ def _load_table_from_uri(bucket_name, file_name, tableSchema, tableName):
     try:
         load_job.result()  # Espera a que el trabajo de carga termine.
         print("Job finished.")
+        # Eliminar el archivo temporal del bucket después de la carga exitosa
+        temp_blob.delete()
     except google.api_core.exceptions.BadRequest as e:
         print(f"Job failed with error: {e.errors}")  # Imprime los detalles del error.
 
@@ -108,6 +169,7 @@ def hello_gcs(cloud_event):
     metageneration = data["metageneration"]
     timeCreated = data["timeCreated"]
     updated = data["updated"]
+    print(f"PROJECT_ID: {PROJECT_ID}")
     print(f"Event ID: {event_id}")
     print(f"Event type: {event_type}")
     print(f"Bucket: {bucket}")
