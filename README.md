@@ -256,10 +256,10 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 | Tips             | Date                    | Date         | Es la fecha en la que se escribió la critica      | 2013-08-04                                             |
 | Tips             | Compliment_count        | Integer      | Es la cantidad de votos útiles hacia el 'tip'     | 1                                                      |
 
-## Diagrama ER
+## Diagrama Entidad Relacion
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Diagrama%20Entidad.png?raw=true" alt="Diagrama Entidad" width="1000">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Diagrama%20Entidad.png?raw=true" alt="Diagrama Entidad" width="600">
 </div>
 
 # EDA Preliminar:
