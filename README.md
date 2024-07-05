@@ -306,7 +306,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 ### Video explicativo Pipeline
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6hyfh6FPalA">
-    <img src="https://img.youtube.com/vi/6hyfh6FPalA/0.jpg" alt="Watch the video" />
+    <img src="https://img.youtube.com/vi/6hyfh6FPalA/0.jpg" alt="Watch the video" style="width: 1000px;" />
   </a>
 </div>
 
