@@ -300,7 +300,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 ## Pipeline Carga Incremental
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Pipeline%20Carga%20Incremental.png?raw=true" alt="Pipeline Carga Incremental" width="500">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Pipeline%20Carga%20Incremental.png?raw=true" alt="Pipeline Carga Incremental" width="1000">
 </div>
 
 # EDA Preliminar:
