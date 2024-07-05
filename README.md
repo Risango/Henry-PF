@@ -338,6 +338,9 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 
 ## MVP Machine Learning
 
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/MVP%20ML.png?raw=true" alt="MVP Machine Learning" style="width: 800px;" />
+</div>
 
 # Siguientes Pasos
 
