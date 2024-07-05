@@ -331,8 +331,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 </div>
 
 ## MVP Dashboard
-<div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/MVP%20Dashboard.png?raw=true" alt="MVP Dashboard" style="width: 800px;" />
+![Captura de pantalla 2024-07-05 193521](https://github.com/Risango/Henry-PF/assets/128632484/91a693cf-aed9-4f59-ba0d-619f9ec882b6)
 </div>
 
 ## MVP Machine Learning
