@@ -145,6 +145,10 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Analisis%201.png?raw=true" alt="Analysis 1" style="width: 800px;" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/analisis%202.png?raw=true" alt="Analysis 2" style="width: 800px;" />
+</div>
+
 
 ## Stack Tecnologico
 
