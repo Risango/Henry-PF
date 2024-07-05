@@ -163,7 +163,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 
 ### Sprint #1:
 1. **Lenguajes y Frameworks**: 
-   - Python (pyspark, pandas, numpy, matplotlib, seaborn, airflow)
+   - Python (pyspark, pandas, numpy, matplotlib, seaborn)
 
 ### Sprint #2:
 2. **Almacenamiento de Datos**: 
@@ -171,7 +171,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 3. **Procesamiento y Transformación ETL**: 
    - Implementación de procesos de ETL (pandas, pyspark)
 4. **Lenguajes y Frameworks**: 
-   - Python (pyspark, pandas, numpy, matplotlib, seaborn, airflow)
+   - Python (pyspark, pandas, numpy, matplotlib, seaborn)
 5. **Diseño y Gestión de Bases de Datos**: 
    - MySQL Workbench
 6. **Visualización de Datos**: 
@@ -218,7 +218,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
   - **pandas**: Facilita la manipulación y análisis de datos estructurados.
   - **numpy**: Proporciona soporte para grandes matrices y operaciones matemáticas.
   - **matplotlib y seaborn**: Librerías para la visualización de datos.
-  - **airflow**: Para la creación y gestión de workflows ETL.
+
 
 ### 6. Herramientas de Visualización
 #### Power BI y Streamlit
