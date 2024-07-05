@@ -304,7 +304,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 </div>
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6hyfh6FPalA" frameborder="0" allowfullscreen></iframe>
+  [![Watch the video](https://img.youtube.com/vi/6hyfh6FPalA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6hyfh6FPalA)
 </div>
 
 # EDA Preliminar:
