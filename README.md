@@ -155,9 +155,9 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 
 ## Stack Tecnologico
 
-<p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Stack%20Tecnologico.jpeg?raw=true" alt="Stack Tecnologico" style="width:80%;">
-</p>
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Stack%20Tecnologico%20v2.jpeg?raw=true" alt="Technological Stack" style="width: 800px;" />
+</div>
 
 ## Resumen de la Arquitectura
 
@@ -218,7 +218,6 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
   - **pandas**: Facilita la manipulación y análisis de datos estructurados.
   - **numpy**: Proporciona soporte para grandes matrices y operaciones matemáticas.
   - **matplotlib y seaborn**: Librerías para la visualización de datos.
-
 
 ### 6. Herramientas de Visualización
 #### Power BI y Streamlit
