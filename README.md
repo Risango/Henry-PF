@@ -258,9 +258,9 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 ## Diagrama ER
 
-<p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/DiagramaER.PNG?raw=true" alt="Diagrama ER" width="600" height="400">
-</p>
+<div align="center">
+  <img src="URL_OF_THE_SECOND_IMAGE" alt="Description of Second Image" width="1000">
+</div>
 
 # EDA Preliminar:
 <br>
