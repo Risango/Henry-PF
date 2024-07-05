@@ -318,6 +318,10 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
   </a>
 </div>
 
+## MVP Dashboard
+<div align="center">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/MVP%20Dashboard.png?raw=true" alt="MVP Dashboard" style="width: 800px;" />
+</div>
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
