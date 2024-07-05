@@ -262,6 +262,41 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Diagrama%20Entidad.png?raw=true" alt="Diagrama Entidad" width="600">
 </div>
 
+### Diccionario de Datos y Estructura
+
+El diccionario de datos detalla información clave extraída de Yelp y Google Maps:
+
+- **Yelp:** Nombre del negocio, dirección, categorías, calificaciones, estado operativo
+- **Google Maps:** Localización, atributos del comercio, medidas de seguridad
+
+### Tablas Principales
+
+- **Business:** `name`, `address`, `latitude`, `longitude`
+- **Reviews:** `text`, `rating`, `date`, enlazando usuario y negocio
+
+### Integración de Datos
+
+La integración de Yelp y Google Maps enriquece nuestra base de datos, proporcionando una visión completa del comportamiento del consumidor y tendencias del mercado, crucial para decisiones estratégicas.
+
+### Diagrama de Entidad Relación
+
+Nuestro modelo de datos incluye las siguientes tablas clave interconectadas:
+
+- **Business**
+- **Reviews**
+- **Users**
+- **Categories**
+- **Tips**
+
+### Claves
+
+- **Primary Keys:** Garantizan unicidad, ej. `Business_id` en Business
+- **Foreign Keys:** Relacionan tablas, ej. `User_id` y `Business_id` en Reviews
+
+### Aplicaciones y Ventajas
+
+La integración de datos permite comprender mejor a clientes y competencia, identificar oportunidades y optimizar marketing. Analizar tendencias desde una base unificada es esencial para la competitividad y éxito empresarial.
+
 # EDA Preliminar:
 <br>
 
