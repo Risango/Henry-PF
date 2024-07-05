@@ -179,7 +179,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 
 ### Sprint #3:
 7. **Procesamiento Distribuido**: 
-   - Apache Spark
+   - Google Cloud Storage
 8. **Orquestación de Pipelines**: 
    - Google functions
 9. **Despliegue del Modelo de ML**: 
@@ -202,8 +202,8 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 - **Utilidad**: Asegura que los datos estén limpios, precisos y en un formato adecuado para su análisis. Incluye eliminación de datos incompletos, corrección de errores, normalización de formatos, aplicación de reglas de negocio, agregaciones, cálculos derivados e integración de datos de diferentes fuentes.
 
 ### 3. Procesamiento Distribuido
-#### Apache Spark
-- **Definición**: Apache Spark es un motor de procesamiento distribuido de código abierto que ofrece una interfaz para la programación de clusters completos con paralelismo implícito y tolerancia a fallos.
+#### Google Cloud Storage
+- **Definición**: Google Cloud Storage es un motor de procesamiento distribuido de código abierto que ofrece una interfaz para la programación de clusters completos con paralelismo implícito y tolerancia a fallos.
 - **Utilidad**: Permite el procesamiento rápido de grandes volúmenes de datos en paralelo, lo cual es ideal para tareas de análisis y transformación de datos a gran escala.
 
 ### 4. Orquestación de Pipelines
