@@ -1,0 +1,8 @@
+flask
+gunicorn
+pandas
+numpy
+scipy
+db-dtypes
+pillow
+category_encoders
