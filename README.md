@@ -105,9 +105,9 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 
 La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum**, una forma ágil y flexible de manejar proyectos de desarrollo de software. Scrum se centra en la entrega continua de valor a través de ciclos iterativos y incrementales conocidos como *Sprints*.
 
-### Sprint 1: Iniciación y Preparación
+### Sprint 1:
 <details>
-<summary><strong>Objetivos Específicos</strong></summary>
+<summary><strong>Iniciación y Preparación</strong></summary>
 
 - **Planificación del Sprint:** Definición de las historias de usuario y tareas necesarias para este sprint.
 - **Configuración del entorno de trabajo:** Instalación y configuración de todas las herramientas y tecnologías necesarias.
