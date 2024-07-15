@@ -106,8 +106,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum**, una forma ágil y flexible de manejar proyectos de desarrollo de software. Scrum se centra en la entrega continua de valor a través de ciclos iterativos y incrementales conocidos como *Sprints*.
 
 ### Sprint 1:
-<details>
-<summary><strong>Iniciación y Preparación</strong></summary>
+
 
 - **Planificación del Sprint:** Definición de las historias de usuario y tareas necesarias para este sprint.
 - **Configuración del entorno de trabajo:** Instalación y configuración de todas las herramientas y tecnologías necesarias.
@@ -115,7 +114,7 @@ La metodología empleada en este proyecto se basa en el marco de trabajo **Scrum
 - **Daily Scrum:** Reuniones diarias para evaluar el progreso y adaptar el backlog según sea necesario.
 - **Revisión del Sprint:** Al final del sprint, se revisa el trabajo completado y se presentan los incrementos del producto.
 
-</details>
+
 
 ### Sprint 2: Desarrollo y Construcción
 - **Desarrollo de la arquitectura de datos**: Creación de modelos de datos eficientes y escalables.
@@ -369,12 +368,6 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 </div>
 
 Este proyecto de Machine Learning está diseñado para analizar datos en tres áreas clave: ubicaciones potenciales para Dunkin', preferencias de los usuarios, y estados con mayor crecimiento o declive. Utilizando diversos conjuntos de datos como ratings, estados, latitud, longitud, año, reseñas, usuarios y negocios, generamos salidas específicas que ayudan a tomar decisiones informadas. Para Dunkin', identificamos posibles nuevas ubicaciones mediante la latitud y longitud. Analizamos las preferencias de los usuarios para entender mejor sus necesidades y mejorar el servicio, y finalmente, evaluamos el crecimiento o declive de los estados para ajustar nuestras estrategias de mercado. Este enfoque integral nos permite optimizar operaciones y maximizar el impacto en el mercado.
-
-# Siguientes Pasos
-
-<div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/siguientes%20pasos.png?raw=true" alt="Next Steps" style="width: 700px;" />
-</div>
 
 
 ## Datasets y Fuentes Complementarias
