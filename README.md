@@ -206,7 +206,6 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 10. **Despliegue del Modelo de ML**: 
    - Google Cloud Run, Docker, Flask
 
-
 ## Ciclo de Vida del Dato & Justificación de la Arquitectura:
 
 <div align="center">
