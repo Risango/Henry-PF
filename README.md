@@ -349,13 +349,15 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
   </a>
 </div>
 
-## MVP Dashboard
+## Dashboard
 ![Captura de pantalla 2024-07-05 193521](https://github.com/Risango/Henry-PF/assets/128632484/91a693cf-aed9-4f59-ba0d-619f9ec882b6)
 ![Captura de pantalla 2024-07-05 193543](https://github.com/Risango/Henry-PF/assets/128632484/cf621adf-23c7-48ed-ba78-646fa16c14b1)
 
+[Access the Google Drive Folder](https://drive.google.com/drive/folders/1_mGYZEdVB_f2GSvkqIiknsexiLbvJPPM?hl=es)
+
 </div>
 
-## MVP Machine Learning
+## Machine Learning
 ![Demo 2 (1)-01](https://github.com/user-attachments/assets/6324e0ab-da0e-4219-8642-bcdb490daf62)
 
 </div>
