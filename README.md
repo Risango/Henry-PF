@@ -351,7 +351,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 
 ## Dashboard
 
-<div align="center" style="font-size: 30px; font-weight: bold; margin-bottom: 20px;">
+<div align="center" style="font-size: 100px; font-weight: bold; margin-bottom: 50px;">
   <a href="https://drive.google.com/drive/folders/1_mGYZEdVB_f2GSvkqIiknsexiLbvJPPM?hl=es" style="text-decoration: none; color: black;">Archivo Dashboard</a>
 </div>
 
