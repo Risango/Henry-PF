@@ -175,7 +175,7 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 ## Stack Tecnologico
 
 <div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Stack%20Tecnologico%20v2.jpeg?raw=true" alt="Technological Stack" style="width: 800px;" />
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Stack%20Tecnologico%20v3.png?raw=true" alt="Technological Stack" style="width: 800px;" />
 </div>
 
 ## Resumen de la Arquitectura
@@ -186,23 +186,26 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
 
 ### Sprint #2:
 2. **Almacenamiento de Datos**: 
-   - Google BigQuery
+   - Google BigQuery, Google Cloud Storage
 3. **Procesamiento y Transformación ETL**: 
    - Implementación de procesos de ETL (pandas, pyspark)
 4. **Lenguajes y Frameworks**: 
    - Python (pyspark, pandas, numpy, matplotlib, seaborn)
 5. **Diseño y Gestión de Bases de Datos**: 
-   - MySQL Workbench
+   - MySQL Workbench, Cloud SQL
 6. **Visualización de Datos**: 
-   - Power BI, Streamlit
+   - Power BI
 
 ### Sprint #3:
 7. **Procesamiento Distribuido**: 
-   - Google Cloud Storage
+   - Google Cloud Storage, Google BigQuery
 8. **Orquestación de Pipelines**: 
-   - Google functions
-9. **Despliegue del Modelo de ML**: 
-   - Google AI Platform, Flask, FastAPI
+   - Google Cloud Functions, Python
+9. **Modelado de ML**: 
+   - Scikit-learn, XGBoost
+10. **Despliegue del Modelo de ML**: 
+   - Google Cloud Run, Docker, Flask
+
 
 ## Ciclo de Vida del Dato & Justificación de la Arquitectura:
 
