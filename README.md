@@ -362,7 +362,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 
 </div>
 
-## Machine Learning
+## Modelo Machine Learning
 ![Demo 2 (1)-01](https://github.com/user-attachments/assets/6324e0ab-da0e-4219-8642-bcdb490daf62)
 
 </div>
