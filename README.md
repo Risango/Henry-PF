@@ -15,6 +15,8 @@ La distribución de tareas se ha asignado meticulosamente para aprovechar las es
 - [Contexto](#contexto)
   - [Objetivos del Proyecto](#Objetivos-del-Proyecto)
 - [KPIs](#KPIs)
+- [Propuesta de Trabajo](#propuesta-de-trabajo)
+- [Metodología de Trabajo](#metodología-de-trabajo)
 </details>
 
 
