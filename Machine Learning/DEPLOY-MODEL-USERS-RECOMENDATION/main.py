@@ -4,6 +4,7 @@ import numpy as np
 import re
 from flask import Flask, request, jsonify
 from scipy.sparse import hstack
+import xgboost
 
 # Cargar el modelo XGBoost
 with open('modelo_xgb.pkl', 'rb') as f:
@@ -24,9 +25,10 @@ def limpiar_texto(texto):
     texto_limpio = texto_limpio.lower()
     return texto_limpio
 
-
 try:
-    Reviews = pd.read_csv("Reviews_Recomendacion.csv", sep=',', encoding='utf-8') #Se necesita tener el archivo de Reviews_Recomendacion
+    Reviews = pd.read_csv("Reviews_Recomendacion.csv", sep=',', encoding='utf-8')
+    Usuarios = pd.read_csv("Users_ModeloRecomendacion.csv", sep=',', encoding='utf-8')  # DataFrame de usuarios con columnas user_id y name
+    Negocios = pd.read_csv("Business_ModeloRecomendacion.csv", sep=',', encoding='utf-8')  # DataFrame de negocios con varias columnas
 except pd.errors.ParserError as e:
     print(f"Error al leer el archivo CSV: {e}")
 
@@ -42,7 +44,8 @@ def recomendar_usuarios(business_id):
     df_filtrado['probabilidad'] = probas[:, 1]
     
     top_5_usuarios = df_filtrado.nlargest(5, 'probabilidad')[['User_id', 'probabilidad']]
-    return top_5_usuarios['User_id'].tolist()
+    top_5_usuarios = top_5_usuarios.merge(Usuarios, left_on='User_id', right_on='user_id', how='left')
+    return top_5_usuarios[['User_id', 'name', 'probabilidad']]
 
 @app.route('/', methods=['POST'])
 def index():
@@ -51,7 +54,17 @@ def index():
         return jsonify({'error': 'No se proporcionó el business_id'}), 400
 
     usuarios_recomendados = recomendar_usuarios(business_id)
-    return jsonify({'usuarios_recomendados': usuarios_recomendados})
+    negocio_info = Negocios[Negocios['business_id'] == business_id].to_dict(orient='records')
+    
+    if negocio_info:
+        negocio_info = negocio_info[0]  # Convertir de lista de diccionarios a un solo diccionario
+    else:
+        negocio_info = {}
+
+    return jsonify({
+        'usuarios_recomendados': usuarios_recomendados.to_dict(orient='records'),
+        'negocio_info': negocio_info
+    })
 
 if __name__ == '__main__':
     app.run(debug=True)
