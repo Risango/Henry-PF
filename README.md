@@ -352,9 +352,7 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 ## Dashboard
 
 <div align="center">
-  <a href="https://drive.google.com/drive/folders/1_mGYZEdVB_f2GSvkqIiknsexiLbvJPPM?hl=es" style="text-decoration:none;">
-    <h2><strong>Archivo Dashboard</strong></h2>
-  </a>
+  <a href="https://drive.google.com/drive/folders/1_mGYZEdVB_f2GSvkqIiknsexiLbvJPPM?hl=es" style="font-size:20px; font-weight:bold; text-decoration:none;">Archivo Dashboard</a>
 </div>
 
 ![Captura de pantalla 2024-07-05 193521](https://github.com/Risango/Henry-PF/assets/128632484/91a693cf-aed9-4f59-ba0d-619f9ec882b6)
