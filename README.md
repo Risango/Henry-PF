@@ -5,6 +5,12 @@
 
 La distribución de tareas se ha asignado meticulosamente para aprovechar las especialidades y habilidades de cada integrante, asegurando así una ejecución eficiente y efectiva de cada sprint. Ricardo Andres Santana Contreras, como Project Manager y Business Analyst, lidera la planificación y gestión del proyecto, asegurando que los objetivos del sprint se alineen con las necesidades del negocio y coordinando las actividades del equipo. Angel David Mariscal Soto y Carlos Andres Ibarra Bolaños, ambos Data Analysts y Data Engineers, se encargan del desarrollo y mantenimiento de la arquitectura de datos, además de implementar procesos de ETL y automatización necesarios para el manejo eficiente de los datos. Daniel Gomero Alegre, nuestro Machine Learning Engineer, lidera el desarrollo y afinamiento de los modelos de machine learning, asegurando su integración y funcionamiento óptimo en la producción. Por otro lado, Jorge Enrique Caicedo Riascos y Raul Rodrigo Penayo, ambos Business Intelligence Analysts y Data Analysts, son fundamentales en la creación de dashboards y reportes, proporcionando insights críticos a través del análisis avanzado de datos para informar decisiones estratégicas.
 
+<details>
+<summary><strong>Índice</strong></summary>
+
+- [Situación Actual](#situación-actual)
+
+
 
 ## Situación Actual
 Como **Insightful Data Solutions**, somos una consultora de vanguardia especializada en transformar datos complejos en soluciones claras y accionables para una variedad de industrias. Nos dedicamos a proporcionar servicios de análisis avanzados, integración de datos y soluciones de inteligencia empresarial, apoyando a las empresas en la optimización de sus operaciones y estrategias de marketing mediante el uso eficaz de los datos.
