@@ -99,7 +99,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 ## Metodología de Trabajo
 
 <p align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/sprints.png?raw=true" alt="Scrum Framework" style="width:30%;">
+  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/sprints.png?raw=true" alt="Scrum Framework" style="width:100%;">
 </p>
 
 
