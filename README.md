@@ -212,57 +212,50 @@ Además, se realizó un análisis FODA donde se identifican lo que son las Forta
   <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/ciclo%20de%20vida%20del%20datov2.png?raw=true" alt="Ciclo de Vida del Dato" width="1000">
 </div>
 
-### 1. Almacenamiento de Datos
-#### Google BigQuery
+#### 1. Almacenamiento de Datos
+##### Google BigQuery
 - **Definición**: Google BigQuery es un servicio de almacenamiento y análisis de datos de Google Cloud. Es un data warehouse totalmente administrado y altamente escalable.
 - **Utilidad**: Permite ejecutar consultas SQL sobre grandes conjuntos de datos de manera rápida y escalable. Ideal para análisis de datos en tiempo real y procesamiento de grandes volúmenes de datos sin necesidad de gestionar la infraestructura subyacente.
 
-### 2. Procesamiento y Transformación ETL
-#### Procesamiento ETL
+#### 2. Procesamiento y Transformación ETL
+##### Procesamiento ETL
 - **Definición**: ETL (Extract, Transform, Load) es el proceso de extracción de datos de diversas fuentes, su transformación (limpieza, corrección de errores, normalización) y carga en un sistema de almacenamiento.
 - **Utilidad**: Asegura que los datos estén limpios, precisos y en un formato adecuado para su análisis. Incluye eliminación de datos incompletos, corrección de errores, normalización de formatos, aplicación de reglas de negocio, agregaciones, cálculos derivados e integración de datos de diferentes fuentes.
 
-### 3. Procesamiento Distribuido
-#### Google Cloud Storage
-- **Definición**: Google Cloud Storage es un motor de procesamiento distribuido de código abierto que ofrece una interfaz para la programación de clusters completos con paralelismo implícito y tolerancia a fallos.
-- **Utilidad**: Permite el procesamiento rápido de grandes volúmenes de datos en paralelo, lo cual es ideal para tareas de análisis y transformación de datos a gran escala.
+#### 3. Procesamiento Distribuido
+##### Google Cloud Storage
+- **Definición**: Google Cloud Storage es un servicio de almacenamiento en la nube diseñado para almacenar grandes volúmenes de datos de manera segura y escalable.
+- **Utilidad**: Permite el procesamiento rápido de grandes volúmenes de datos en paralelo, ideal para tareas de análisis y transformación a gran escala. Proporciona durabilidad, disponibilidad y acceso rápido a los datos almacenados.
 
-### 4. Orquestación de Pipelines
-#### Google functions
-- **Definición**: Google functions es una plataforma de código abierto para la creación, programación y monitoreo de flujos de trabajo programados.
-- **Utilidad**: Automatiza y orquesta los pipelines de ETL, asegurando que los datos se procesen y transformen de manera sistemática y en el orden correcto. Permite la programación y monitorización de tareas, facilitando la gestión de workflows complejos.
+#### 4. Orquestación de Pipelines
+##### Google Cloud Functions
+- **Definición**: Google Cloud Functions es un servicio de computación sin servidor que ejecuta funciones individuales en respuesta a eventos.
+- **Utilidad**: Automatiza y orquesta los pipelines de datos, permitiendo la ejecución de funciones específicas basadas en eventos como la llegada de nuevos datos o disparadores programados. Ideal para la integración y automatización de procesos en tiempo real.
 
-### 5. Lenguajes y Frameworks
-#### Python y sus Librerías
+#### 5. Lenguajes y Frameworks
+##### Python y sus Librerías
 - **Python**: Un lenguaje de programación versátil y ampliamente utilizado en data science por su simplicidad y potencia.
   - **pyspark**: Integra Spark con Python para el procesamiento distribuido.
   - **pandas**: Facilita la manipulación y análisis de datos estructurados.
   - **numpy**: Proporciona soporte para grandes matrices y operaciones matemáticas.
   - **matplotlib y seaborn**: Librerías para la visualización de datos.
 
-### 6. Herramientas de Visualización
-#### Power BI y Streamlit
-- **Power BI**: Una herramienta de Microsoft para la creación de informes interactivos y dashboards.
-  - **Utilidad**: Permite a los usuarios no técnicos explorar y visualizar datos de manera interactiva.
-- **Streamlit**: Un framework en Python para crear aplicaciones web interactivas y visualizaciones de datos.
-  - **Utilidad**: Facilita la creación rápida de interfaces de usuario para modelos de ML y análisis de datos, permitiendo compartir insights fácilmente.
+#### 6. Herramientas de Visualización
+##### Power BI
+- **Definición**: Power BI es una herramienta de análisis empresarial de Microsoft que permite crear visualizaciones interactivas y paneles de control.
+- **Utilidad**: Permite a los usuarios explorar y analizar datos mediante gráficos interactivos, informes y dashboards, facilitando la toma de decisiones basadas en datos.
 
-### 7. Diseño de Modelos ER y Gestión de Bases de Datos
-#### MySQL Workbench
-- **Definición**: Una herramienta visual de diseño de bases de datos que permite la modelación de datos y la administración de bases de datos MySQL.
-- **Utilidad**: Ayuda en la creación de modelos de datos relacionales, diseño de esquemas de bases de datos y gestión de bases de datos MySQL.
+#### 7. Diseño de Modelos ER y Gestión de Bases de Datos
+##### MySQL Workbench y Cloud SQL
+- **MySQL Workbench**: Una herramienta visual para el diseño de bases de datos que facilita la modelación de datos y la administración de esquemas.
+- **Cloud SQL**: Un servicio de bases de datos totalmente administrado para bases de datos MySQL en la nube de Google Cloud.
+- **Utilidad**: Ayuda en la creación y gestión de bases de datos relacionales, asegurando la integridad y disponibilidad de los datos almacenados.
 
-### 8. Despliegue del Modelo de ML
-#### Google AI Platform, Flask, FastAPI
-- **Google AI Platform**:
-  - **Definición**: Una plataforma de Google Cloud para entrenar, validar, desplegar y gestionar modelos de machine learning.
-  - **Utilidad**: Facilita el despliegue escalable de modelos de ML en producción, aprovechando la infraestructura de Google Cloud.
-- **Flask**:
-  - **Definición**: Un microframework de Python para desarrollar aplicaciones web.
-  - **Utilidad**: Ideal para crear APIs simples para servir modelos de ML.
-- **FastAPI**:
-  - **Definición**: Un framework web moderno y rápido (de alto rendimiento) para construir APIs con Python 3.7+ basado en estándares como OpenAPI.
-  - **Utilidad**: Permite construir y desplegar APIs para modelos de ML de manera rápida y eficiente, con excelente rendimiento.
+#### 8. Despliegue del Modelo de ML
+##### Google Cloud Run y Flask
+- **Google Cloud Run**: Un servicio completamente administrado para ejecutar contenedores en la nube de Google Cloud.
+- **Flask**: Un microframework de Python para construir aplicaciones web y APIs.
+- **Utilidad**: Facilita el despliegue de modelos de machine learning en producción de manera escalable y eficiente, permitiendo la exposición de funcionalidades a través de APIs web para su consumo externo.
 
 ## Diccionario de datos:
 
