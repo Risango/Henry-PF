@@ -11,6 +11,10 @@ La distribución de tareas se ha asignado meticulosamente para aprovechar las es
 <summary><strong>Índice</strong></summary>
 
 - [Situación Actual](#situación-actual)
+- [Alcance](#alcance)
+- [Contexto](#contexto)
+  - [Objetivos del Proyecto](#Objetivos-del-Proyecto)
+- [KPIs](#KPIs)
 </details>
 
 
