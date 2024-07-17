@@ -15,9 +15,28 @@ La distribución de tareas se ha asignado meticulosamente para aprovechar las es
 - [Contexto](#contexto)
   - [Objetivos del Proyecto](#Objetivos-del-Proyecto)
 - [KPIs](#KPIs)
+- [Solución Propuesta](#solucion-propuesta)
 - [Propuesta de Trabajo](#propuesta-de-trabajo)
 - [Metodología de Trabajo](#metodología-de-trabajo)
+  - [Sprint 1](#sprint-1)
+  - [Sprint 2: Desarrollo y Construcción](#sprint-2-desarrollo-y-construcción)
+  - [Sprint 3: Implementación y Optimización](#sprint-3-implementación-y-optimización)
+- [Productos a Entregar](#productos-a-entregar)
+  - [Modelo de Machine Learning](#modelo-de-machine-learning)
+  - [Dashboard](#dashboard)
+- [Gantt de Actividades](#gantt-de-actividades)
+- [Data Engineering](#data-engineering)
+  - [Análisis Exploratorio de Datos](#analisis-exploratorio-de-datos)
+  - [Stack Tecnológico](#stack-tecnologico)
+  - [Resumen de la Arquitectura](#resumen-de-la-arquitectura)
+- [Diccionario de Datos](#diccionario-de-datos)
+- [Diagrama Entidad Relación](#diagrama-entidad-relacion)
+- [Pipeline Carga Incremental](#pipeline-carga-incremental)
+- [Dashboard](#dashboard)
+- [Modelo Machine Learning](#modelo-machine-learning)
+- [Datasets y Fuentes Complementarias](#datasets-y-fuentes-complementarias)
 </details>
+
 
 
 
