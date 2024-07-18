@@ -6,3 +6,4 @@ scipy
 db-dtypes
 pillow
 category_encoders
+xgboost

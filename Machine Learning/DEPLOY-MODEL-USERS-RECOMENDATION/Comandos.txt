@@ -1,2 +1,0 @@
-gcloud builds submit --tag gcr.io/vocal-framework-427422-q6/index
-gcloud run deploy --image gcr.io/vocal-framework-427422-q6/index --platform managed
