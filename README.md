@@ -372,8 +372,8 @@ Este proyecto de Machine Learning está diseñado para analizar datos en tres á
 
 # Conclusiones:
 
-<img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Conclusion%201.png?raw=true" alt="Descripción de la imagen 1" width="500"/>
-<img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/conclusion%202.png?raw=true" alt="Descripción de la imagen 2" width="500"/>
+<img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/Conclusion%201.png?raw=true" alt="Descripción de la imagen 1" width="1000"/>
+<img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/conclusion%202.png?raw=true" alt="Descripción de la imagen 2" width="1000"/>
 
 ## Datasets y Fuentes Complementarias
 - **Dataset de Google Maps:** Información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros.
