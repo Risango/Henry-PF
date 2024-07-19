@@ -82,7 +82,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
 - **Incremento en Calificaciones Promedio**:
   - **Fórmula**: (Calificación promedio actual - Calificación promedio anterior) / Calificación promedio anterior
   - **Datos**: `Rating` y `Review_Count`
-  - **KPI Meta**: 5% o más de incremento año con año.
+  - **KPI Meta**: 1% o más de incremento año con año.
 
 ### Predecir Tendencias del Mercado a Nivel Nacional
 - **Tasa de Crecimiento Anual de Reseñas en Categorías Clave**:
