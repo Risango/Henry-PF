@@ -173,9 +173,7 @@ Estos productos son esenciales para alcanzar los objetivos del proyecto y están
 
 Una exploración más exhaustiva de los datos permitió llevar acabo un análisis de mercado donde se identifican los principales competidores de Dunkin’. Entres ellos se encuentran, Burger King, Taco Bell, McDonald’s y Starbucks. 
 
-<div align="center">
-  <img src="https://github.com/Risango/Henry-PF/blob/main/imagenes/analisis%202.png?raw=true" alt="Analysis 2" style="width: 800px;" />
-</div>
+![Captura de pantalla 2024-07-19 010204](https://github.com/user-attachments/assets/45e2cdc5-caa0-4e73-a970-8a9e2c0fe141)
 
 Además, se realizó un análisis FODA donde se identifican lo que son las Fortalezas, Oportunidades, Desventajas y Amenazas que posee Dunkin’.
 
