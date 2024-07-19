@@ -71,7 +71,7 @@ Además, Google posee una plataforma de reseñas de todo tipo de negocios (resta
    - Implementar un sistema de recomendación que sugiere a Dunkin' qué servicios muestran una calificación positiva en las experiencias y preferencias de los usuarios. Todo esto, para sugerir servicios que permitan a Dunkin' aumentar sus ventas.
 
 ## KPIs
-![kpi-01](https://github.com/user-attachments/assets/dd0baba2-152a-49de-9133-c281cd7d7bdc)
+![kpifinalwdwSAFD-01](https://github.com/user-attachments/assets/94f74e50-75d2-4355-9491-d8b63c8291fe)
 ### Identificar Ubicaciones Ideales para Apertura de Locales:
 - **Índice de Calificaciones Positivas por Ubicación**:
   - **Criterio**: Número de reseñas con 4 o más estrellas / Número total de reseñas por ubicación
