@@ -357,8 +357,8 @@ La integración de datos permite comprender mejor a clientes y competencia, iden
 </div>
 <br>
 
-![Captura de pantalla 2024-07-05 193521](https://github.com/Risango/Henry-PF/assets/128632484/91a693cf-aed9-4f59-ba0d-619f9ec882b6)
-![Captura de pantalla 2024-07-05 193543](https://github.com/Risango/Henry-PF/assets/128632484/cf621adf-23c7-48ed-ba78-646fa16c14b1)
+![Captura de pantalla 2024-07-19 004745](https://github.com/user-attachments/assets/b5eb9fb0-2cdd-4f12-8094-b5f7231e8e6a)
+![Captura de pantalla 2024-07-19 004832](https://github.com/user-attachments/assets/3d6fec51-a93e-418d-b1d0-752d3419f77d)
 
 
 
