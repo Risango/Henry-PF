@@ -183,6 +183,8 @@ def validar_review_count(value_if_allowed):
         return value_if_allowed.isdigit() and int(value_if_allowed) > 0
     return True
 
+
+
 def enviar_prediccion_request():
     stars = stars_entry.get()
     review_count = review_count_entry.get()
@@ -207,6 +209,15 @@ def enviar_prediccion_request():
     except json.JSONDecodeError:
         messagebox.showerror("Error", "No se pudo decodificar la respuesta como JSON")
         prediccion_text.delete(1.0, tk.END)
+
+estados_dict = {
+    "PA": "Pennsylvania",
+    "FL": "Florida",
+    "MO": "Missouri",
+    "TN": "Tennessee",
+    "IN": "Indiana"
+}
+
 
 def opcion3():
     global business_id_var_3, name_var_3, business_id_combobox_3, name_combobox_3, estados_text
@@ -267,7 +278,14 @@ def enviar_request_3():
         
         # Mostrar estados recomendados
         estados_recomendados = json_response.get("estados_recomendados_para_el_negocio", [])
-        estados_recomendados_text = json.dumps(estados_recomendados, indent=4, ensure_ascii=False)
+        
+        # Reemplazar abreviaturas con nombres completos
+        estados_recomendados_completos = [
+            f"{estado} ({estados_dict[estado]})" if estado in estados_dict else estado
+            for estado in estados_recomendados
+        ]
+        
+        estados_recomendados_text = json.dumps(estados_recomendados_completos, indent=4, ensure_ascii=False)
         estados_text.delete(1.0, tk.END)
         estados_text.insert(tk.END, estados_recomendados_text)
     except json.JSONDecodeError:
